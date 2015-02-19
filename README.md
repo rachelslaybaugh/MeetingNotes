@@ -1,2 +1,4 @@
 # MeetingNotes
-a collection of markdown files with recurring meeting notes.
+A collection of markdown files with recurring meeting notes:
+
+* [NeutronsRUs](https://github.com/rachelslaybaugh/MeetingNotes/NeutronsRUs.md)
