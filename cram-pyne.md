@@ -26,18 +26,21 @@ Our code will need to:
 * build the activiation tree given the starting isotopes
 * solve the problem (with CRAM; that algorithm is implemented)
 
+-----------------
+Useful details about PyNE interface.
+The `Material Class` is in `pyne/src/material.cpp` and `pyne/pyne/material.pxd`,
+pyne/pyne/material.pyx`, and `pyne/pyne/cpp_material.pxd`:
+
 
 
 ### Meeting: 2015/02/09
-(Filled in blanks based on this call on 2015/02/25.)
-
 On PyNE dev call
 * We'll put this as its own branch for now
 
 Entry points for the code:
-* add method to pyne/pyne/transmute directory, which currently contains
-  chainsolve.py and origen22.py
-* there is also a decay method in pyne/source/materials.cpp
+* add method to `pyne/pyne/transmute` directory, which currently contains
+  `chainsolve.py` and `origen22.py`
+* there is also a decay method in `pyne/source/material.cpp`
 * material could have a transmute function that calls the transmute class.
 * we could have a decay matrix that is pre-assembled
 
