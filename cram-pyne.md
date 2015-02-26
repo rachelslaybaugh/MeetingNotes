@@ -16,7 +16,7 @@ Worklog for adding CRAM to PyNE
   mulitplied by its decay constant (\lambda = ln(2)/t_{1/2})
 * The production rate of isotope i from j, P_{j\rightarrow i} can be through 
   activation or decay.
-* P_{j \rightarrow i} activation = \sigma^{j\rightarrow i}_g \phi_g
+* $P_{j \rightarrow i}$ activation = \sigma^{j\rightarrow i}_g \phi_g
 * P_{j \rightarrow i} decay = \lambda_j b_{j \rightarrow i} (b is branching
   ratio)
 * Together, this means that dN_i/dt = \num_{j=1}^n P_{j \rightarrow i} N_j(t)
