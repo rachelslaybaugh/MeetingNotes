@@ -29,9 +29,25 @@ Our code will need to:
 -----------------
 Useful details about PyNE interface.
 The `Material Class` is in `pyne/src/material.cpp` and `pyne/pyne/material.pxd`,
-pyne/pyne/material.pyx`, and `pyne/pyne/cpp_material.pxd`:
+`pyne/pyne/material.pyx`, and `pyne/pyne/cpp_material.pxd`:
 
+Notes about implementation:
+* use Transmuter class, can probably keep interface for init
+* Will have either a flag passed to transmute that then calls which method
+  -or- we can have transmute_alara, transmute_cram, etc. 
+* what goes in and what comes out should be the same.
 
+Steps:
+* map out what current code does (conact Elliott Biondo and Anthony)
+* write algorithm for cram matrix construction
+* identify which code pieces can be reused
+* identify what code pieces need to be added
+* implement. 
+  * factor into alara and cram steps with placeholders in cram
+  * change tests and documentation for alara stuff to work
+  * pull request
+  * add cram stuff
+  * add documentation and tests for cram
 
 ### Meeting: 2015/02/09
 On PyNE dev call
