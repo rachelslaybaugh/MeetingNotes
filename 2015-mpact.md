@@ -8,7 +8,7 @@ March 24-26, 2015
 
 ***
 
-### <a name="day-20150325"><\a>Day 2: 2015/03/25 
+### <a name="day-20150325">Day 2: 2015/03/25 
 * Eric Rauch, Used Fuel Cask Identification through Self-Interrogating Neutrons
 
     - (cask fingerprinting).
@@ -27,7 +27,7 @@ March 24-26, 2015
 
 * Larry Ticknor, Hybrid Statistical Testing for Nuclear Material Accounting and/or Process Monitoring Data in Nuclear Safeguards
 
-### <a name="day-20150326"><\a>Day 2: 2015/03/26
+### <a name="day-20150326">Day 3: 2015/03/26
 * Mike Rabin, Microcalorimeter Update
 
     - Really focusing on improving counting statistics by removing systematics that prevent us getting under 1%. 
