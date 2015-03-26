@@ -3,8 +3,8 @@ Oak Ridge, TN
 March 24-26, 2015
 
 ### Meeting list
-* [Day 2: 2015/03/25](#meeting-20150325)
-* [Day 3: 2015/03/26](#meeting-20150326)
+* [Day 2: 2015/03/25](#day-20150325)
+* [Day 3: 2015/03/26](#day-20150326)
 
 ***
 
@@ -71,7 +71,7 @@ March 24-26, 2015
     - they think hybrid modeling will be important for aging management program, have weird measurement angles (talk to him about this)
     - strong concern about updating fundamental data; industry does not want anything to change b/c of impact on industry past analysis.
 
-* Vince Jodoin, Devense Land Fallout Interpretive Code (DELFIC): Application to Post-Detonation Nuclear Forensics
+* Vince Jodoin, Defense Land Fallout Interpretive Code (DELFIC): Application to Post-Detonation Nuclear Forensics
 
     - the sum of all fears
     - prompt diagnostics: diag on an unknown device, yield, yield prediction
