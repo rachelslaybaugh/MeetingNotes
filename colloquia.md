@@ -1,22 +1,31 @@
-Nuclear Engineering Department colloquia
+## Nuclear Engineering Department colloquia
 
 ### Meeting list
 * [Chris Clement: 2015/05/04](#talk-20150504)
 * [Cameron Geddes: 2014/03/10](#talk-20140310)
+
 ***
 
-## <a name="talk-20150504">Chris Clement, ICRP: 2015/05/04
+### <a name="talk-20150504">Chris Clement, ICRP: 2015/05/04
+
+Introduction
 
 - ICRP since 1928 develops the system of radiologica protectoin as the basis for standards, legislation, guidance, programmes, and practice worldwide.
 - Scientific Secretariat: effectively the CEO
 - Committees: effects, doses, medicine, application, environment
 - 218 people from 34 countries.
 - last recommendations in 2007; 1991 and 1977 last before that; speedier prior to those dates.
-- 
+
+System of Radiological protection
+
+- based on ethical values, science, and experience
+- (top of pyramid to bottom): Primary Aim -> Protectoin Goals -> "Fundamental" Principles -> Concepts / Tools / Requisites
+- aim: balance between protecting people and the environment and the desirable human actions associated with exposure.
+ 
 
 -----------------
 
-## <a name="talk-20140310">Cameron Geddes, LBNL: 2014/03/10
+### <a name="talk-20140310">Cameron Geddes, LBNL: 2014/03/10
 
 transportable MeV photon probe important to detection and characterization of nuclear material.
 
