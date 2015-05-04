@@ -3,10 +3,16 @@ Nuclear Engineering Department colloquia
 ### Meeting list
 * [Chris Clement: 2015/05/04](#talk-20150504)
 * [Cameron Geddes: 2014/03/10](#talk-20140310)
-
- ***
+***
 
 ## <a name="talk-20150504">Chris Clement, ICRP: 2015/05/04
+
+- ICRP since 1928 develops the system of radiologica protectoin as the basis for standards, legislation, guidance, programmes, and practice worldwide.
+- Scientific Secretariat: effectively the CEO
+- Committees: effects, doses, medicine, application, environment
+- 218 people from 34 countries.
+- last recommendations in 2007; 1991 and 1977 last before that; speedier prior to those dates.
+- 
 
 -----------------
 
