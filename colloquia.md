@@ -79,7 +79,7 @@ Making the foot higher uses up adiabat faster, meaning you need shorter time - o
 
 -----------------
 
-* <a name="talk-20140421">Paul Slovic: 2014/04/21
+### <a name="talk-20140421">Paul Slovic: 2014/04/21
 
 The Ethics of Technological Risk
 
