@@ -36,9 +36,10 @@ Program of Work
 - Ethics: had been focused on traditional western ethical schools, shifting to common ideals that cut across cultures. Working towards a set of common and relevant values. 
 - Idea is to explain the ethics that are behind the rp standards.
 
+
 -----------------
 
-* <a name="talk-20140428">Omar Hurricane, LLNL: 2014/04/28
+### <a name="talk-20140428">Omar Hurricane, LLNL: 2014/04/28
 
 The high-foot implosion campaign on the NIF
 
