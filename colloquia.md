@@ -1,7 +1,9 @@
-## Nuclear Engineering Department colloquia
+## Nuclear Engineering Department Colloquia
 
 ### Meeting list
 * [Chris Clement: 2015/05/04](#talk-20150504)
+* [Omar Hurricane: 2014/04/28](#talk-20140428)
+* [Paul Slovic: 2014/04/21](#talk-20140421)
 * [Cameron Geddes: 2014/03/10](#talk-20140310)
 
 ***
@@ -10,43 +12,130 @@
 
 Introduction
 
-- ICRP since 1928 develops the system of radiologica protectoin as the basis for standards, legislation, guidance, programmes, and practice worldwide.
+- ICRP since 1928 develops the system of radiological protection as the basis for standards, legislation, guidance, programs, and practice worldwide.
 - Scientific Secretariat: effectively the CEO
 - Committees: effects, doses, medicine, application, environment
 - 218 people from 34 countries.
 - last recommendations in 2007; 1991 and 1977 last before that; speedier prior to those dates.
 
-System of Radiological protection
+System of Radiological Protection
 
 - based on ethical values, science, and experience
-- (top of pyramid to bottom): Primary Aim -> Protectoin Goals -> "Fundamental" Principles -> Concepts / Tools / Requisites
+- (top of pyramid to bottom): Primary Aim -> Protection Goals -> "Fundamental" Principles -> Concepts / Tools / Requisites
 - aim: balance between protecting people and the environment and the desirable human actions associated with exposure.
- 
+- fundamental principles: do more good than harm (justification); optimization (ALARA); dose limitation 
+- Very focused on fairness, minimizing risk, distributing risk fairly, etc.
+- Concepts: dose, exposure situations, exposure types
+
+Program of Work
+
+- Have lots of ongoing publications about specific issues
+- Lots of involvement with Fukushima items: initial lessons for how to improve ICRP, 18 issues and 11 recommendations.   
+- Dialogue initiative: xfer experience from Chernobyl, facilitate discussions between local groups, learning for ICRP, sharing ICRP with communities.
+- Lots of interesting topics; largely sensitive, complex issues
+- Ethics: had been focused on traditional western ethical schools, shifting to common ideals that cut across cultures. Working towards a set of common and relevant values. 
+- Idea is to explain the ethics that are behind the rp standards.
+
+-----------------
+
+* <a name="talk-20140428">Omar Hurricane, LLNL: 2014/04/28
+
+The high-foot implosion campaign on the NIF
+
+
+Turning 100 m atm of pressure into 300 b atm of pressure.
+
+1.6 MJ laser - converted to xrays, absorbed by ablator, compression makes pressure, get fusion
+
+192 laser beams, 4 different polar angles (inner cone, outer cone) go in through laser entrance hole (LEH) into the gold hohlraum
+
+Lawson criteria is ~25 atm-sec (pressure times time is the thing that defines this). NIF is high pressure, short time. ITER is low pressure, long time.
+
+'Ignition' comes from when net heating from fusion outstrips net cooling from e-conduction and x-ray losses. rho-r v T curve plots region of radiation quench (too low of T with high rho-r) and conduction quench (high T w low rho-r).
+
+Rho-r is fuel areal density. Higher rho-r increases chance of interaction (like critical mass)
+
+Rho-r > 0.3 g/cm^2 needed for ignite; > 1 for propagation of the burn (successive regions ignite).
+
+Burn efficiency ~ pr / (pr + 7)  [switching pr=rho-r]
+
+Have some idealized Fermi pressure, don't get that in reality b/c higher energy and entropy, so add a correction parameter to account for that (adiabat) -> gets a pressure
+
+Do simple 1/2 mv^2 = 3 P Vol
+- need high velocity, low adiabat, small mass
+
+Need to design shocks to keep adiabat low and velocity implosion high, and that's the goal
+
+Low-foot campaign emphasizes lowering adiabat
+High-foot (more successful) campaign is this talk.
+They can now get more energy out than in, that started end of 2013.
+
+They realized ablator material from the outside was getting too mixed in, causing more bremstrahlung radiation = too much cooling.
+
+Low foot was 4-shock to get high velocity, low adiabat.
+Making the foot higher uses up adiabat faster, meaning you need shorter time - only 3-shock implosion.
+
+
+-----------------
+
+* <a name="talk-20140421">Paul Slovic: 2014/04/21
+
+The Ethics of Technological Risk
+
+C/B analysis is consequentialist/utilitarian, but rooted in a very specific mindset (rooted in a specific ethical theory that is highly contested) and leaves out many other concerns that are valid in ethics: justice, fairness, equity, autonomy...
+Against technocratic in favor of figuring out how to incorporate values
+
+But then also emotions
+
+"Emotions have a bad reputation", similar to system 1 v system 2
+
+Many people can be mapped in to 4 quads: hierarchist v egalitarian and individualist v communitarian
+
+Moral Tribes by Goshua Greene
+The Righteous Mind by Jonathan Haidt
+(rationality works post-hoc)
+
+The Secret Joke of Kant's Soul by Greene
+
+We're not logically inconsistent - our brains intuitively divine the moral implications of differences between choices and select the right one (you incorporate other values such as autonomy, fairness, etc.)
+
+Moral emotions and intuitions, Sabine Roeser
+
+Emotions and risky technologies, Sabine Roeser
+the kite runner
+
+Intersection of arts and emotions and developing emotional understand around risky technology
+
+
+Thought exercise: go through with people: what are your goals? How do we get there?
+
+Artist: William Verstraeten
+
 
 -----------------
 
 ### <a name="talk-20140310">Cameron Geddes, LBNL: 2014/03/10
 
-transportable MeV photon probe important to detection and characterization of nuclear material.
+Transportable MeV photon probe important to detection and characterization of nuclear material.
 
-can increase resolution; need transportable sources
+Can increase resolution; need transportable sources
 penetration depth sets base photon need. 10^10 photons
 
-photofission 5-20 MeV, maybe even 10^11 photons.
-need narrom energy emission.
-Nuclear resonance fluoreschence is the gold standard, need good resolution.
+Photofission 5-20 MeV, maybe even 10^11 photons.
+Need narrow energy emission.
+Nuclear resonance fluorescence is the gold standard, need good resolution.
 
-How do they make photons: thomspon scattering. get 0.3-1 GeV electrons from lasers Frequency doubled laser: 0.2-0.7 GeV. They're working on laser plasma accelerators to meet these needs.
+How do they make photons: Thomspon scattering. Get 0.3-1 GeV electrons from lasers Frequency doubled laser: 0.2-0.7 GeV. They're working on laser plasma accelerators to meet these needs.
 
-femto-s laser ionizes a plasma, accelerates the particle (plasma wave structure causes acceleration). Pondermotive force + plasma oscillation (get harmonic oscillater) -> get wave propagation that can accelerate electrons.
+Femto-s laser ionizes a plasma, accelerates the particle (plasma wave structure causes acceleration). Pondermotive force + plasma oscillation (get harmonic oscillator) -> get wave propagation that can accelerate electrons.
 
-control is highly required, so we need to make sure we have good laser control.
+Control is highly required, so we need to make sure we have good laser control.
 
 Have the ability to predict this somewhat easily - and you can also learn about laser guiding.
 
-laser front control with deformable mirror. fluctuations tuned by jet contour. now getting > 200 MeV at 10 TW. Still issues with self-trapping tuning. close to theory, but still having control problems.
+Laser front control with deformable mirror. Fluctuations tuned by jet contour. Now getting > 200 MeV at 10 TW. Still issues with self-trapping tuning. Close to theory, but still having control problems.
 
-can control by changing initial particle velocity or by modulating wake velocity.
+Can control by changing initial particle velocity or by modulating wake velocity.
 
-big issues with power limitations.
+Big issues with power limitations.
 
