@@ -110,6 +110,19 @@ Full proposals due Wednesday, Aug. 26 (no more than 10 will be selected)
 -----------------------------------
 ### <a name"LOI">Notes on LOI
 
+Things we need to include beyond identifying information:
+* primary research field(s) and interdisciplinary area(s)
+* abstract (2400 characters / 350 words)
+* brief text responses for structural components and eligibility criteria
+* total budget and award term
+* disclosure of current/concurrent ucop funding
+
+Will be evaluated for responsiveness in 3 areas:
+  1. Elligibility (did you follow the rules? do not add anything extra.)
+  2. Research scope (is the topic compelling, innovative, and likely to create new knowledge or outcomes that benefit CA and the world in areas of strategic importance to UC?)
+  3. Required components (are you catalyzing all the things?)
+
+NOTE: communicating to non-experts in the field.
 
 
 
@@ -165,7 +178,12 @@ Another idea for outreach could be a broader community education effort about me
 This can be focused around awareness about UC's research, cancer treatment and medical therapies, how technology from other fields enhances medicine, etc.
 
 #### Budget
-(the dream funding:
+* May include direct costs only (maybe that makes all of these figures lower?).
+* UC-managed labs must waive their indirect cost recovery. 
+* Indirect costs can be covered by matching funds from non-UC sources or cost-sharing by the labs or other entities. 
+
+
+(the dream funding:)
 * cyclotron: ~$150k
 * 3 graduate students for 3 years ($60k*3*3 = $540k)
 * 1 post doc for 3 years ($80k*3 = $240k)
@@ -177,3 +195,34 @@ This can be focused around awareness about UC's research, cancer treatment and m
 total: ~$1.2M 
 
 (May be too much? We will need firmer estimates on all of this and to really thing through what we need.)
+
+
+
+-----------------------------------
+### <a name="full">Full Proposal
+(quick notes for planning LOI)
+
+11 page max, excluding abstract, budget justification, and attachments.
+Will include:
+
+* abstract/summary
+* proposed activities (6 pages)
+* collaboration, mentorship, and training opportunities (2 pages)
+* systemwide engagement and benefit (1 page)
+* public engagement and research benefit (1 page)
+* timeframe, milestones, and evaluation metrics (1 page)
+* itemized budget template and justification
+* attachments: literature cited, CVs, ucop funding disclosure, letters of committment (as appropriate)
+
+Discussion of evaluation criteria pages 7-8: good to read when crafting LOI abstract.
+
+5 extra areas are 
+- appropriateness of budget
+- plans to secure extramural funding
+- other sources of support (this needs to be new and distinct)
+- sufficient campus commitment and adminitrative capacity
+- if we have human subjects or toxic substances: how we will address regulatory compliance.
+
+
+
+
