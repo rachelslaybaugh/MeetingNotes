@@ -1,7 +1,7 @@
 UC President Catalyst Award (PRCA) 2015
 
 *[Webinar notes](#webinar)
-*[RFP notes](#RFP)
+*[RFP and FAQ notes](#RFP)
 *[LOI notes](#loi)
 *[Plan](#plan)
 
@@ -81,11 +81,11 @@ Amy Gee (RGPO C&G)
   - no required structure of the faculty collaboration
   - only 1 PI from each site (1 lead and 2 co-PIs), other personnel who are making significant contributions can be co-investigators (co-Is have no limit)
   - look at webpage for areas of strategic importance: can UC make a meaningful difference by having a multicampus collaboration in this area
-  - You can collaborate with entities outside UC system if they have their own funding and tangibly contribute to the project; but that's not the goal of this (if there's some sort of thing someone else provides that is not available here you can add them).
+  - You can collaborate with entities outside UC system if they have their own funding and tangibly contribute to the project; but that is not the goal of this (if there's some sort of thing someone else provides that is not available here you can add them).
 
 
 -----------------------------------
-### <a name"RFP">Notes on RFP
+### <a name"RFP">Notes on RFP and FAQ
 Things to catalyze: Innovative scholarship, Multicampus and systemwide collaboration, Graduate student training opportunities, Faculty collaboration across career states, Public engagement in the UC research mission, Undergraduate participation in research.
 
 LOI due Thursday, June 4 at noon pacific
@@ -104,6 +104,14 @@ Full proposals due Wednesday, Aug. 26 (no more than 10 will be selected)
 * Everyone must disclose current and concurrent UCOP funding.
 * A budget itemization and justification required only with full proposal.
 * Funds may not be used to cover patient care costs, clinical trials, patent execution costs, fundraising costs, subawards to non-UC-affiliated entities (except for community engagement), or indirect costs. 
+
+Useful notes from the FAQ:
+* Public/community engagement: 
+  - The most effective and meaningful activities will be those that are well-integrated into, and strengthen the quality of, the research effort while also advancing the educaton and service missions of the University.
+  - They list some examples, what follows are a few relevant ones
+     - Engaging communities in after-school resarch-enhanced enrichment opportunities
+     - Education and outreach opportunities connecting the CA public to something with research relevance (they say museums, etc., but we could have something else).
+     - Activities aimed at engaging new, hard-to-reach, or underserved populations in research-informed community benefit.
 
 
 
