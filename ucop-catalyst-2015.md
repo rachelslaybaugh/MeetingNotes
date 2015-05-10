@@ -1,8 +1,13 @@
-Applicant Webinar: UC President Catalyst Award (PRCA) 2015
+UC President Catalyst Award (PRCA) 2015
+
+*[Webinar notes](#webinar)
+*[RFP notes](#RFP)
+*[LOI notes](#loi)
+*[Plan](#plan)
+
+### <a name="webinar">Applicant Webinar  
 
 May 7, 2015
-
-
 
 Kathleen Erwin, Director, UCRI (lead)
 
@@ -77,3 +82,98 @@ Amy Gee (RGPO C&G)
   - only 1 PI from each site (1 lead and 2 co-PIs), other personnel who are making significant contributions can be co-investigators (co-Is have no limit)
   - look at webpage for areas of strategic importance: can UC make a meaningful difference by having a multicampus collaboration in this area
   - You can collaborate with entities outside UC system if they have their own funding and tangibly contribute to the project; but that's not the goal of this (if there's some sort of thing someone else provides that is not available here you can add them).
+
+
+-----------------------------------
+### <a name"RFP">Notes on RFP
+Things to catalyze: Innovative scholarship, Multicampus and systemwide collaboration, Graduate student training opportunities, Faculty collaboration across career states, Public engagement in the UC research mission, Undergraduate participation in research.
+
+LOI due Thursday, June 4 at noon pacific
+
+LOI decision by Friday, July 10 (~25 will be invited, no feedback will be provided)
+
+Full proposals due Wednesday, Aug. 26 (no more than 10 will be selected)
+
+
+* Faculty collaboration: full proposals must articulate how the collaboration, mentorship, and shared leadership opportunities will be integrated into the proposed project and activities.
+* Post doc opportunities are encouraged but not required.
+* Medical care at the UC medical centers does not count as public engagement.
+* Education and outreach to communities not already benefitting from healthcare delivery in the proposed research area may be considered as public engagement.
+* Goal is new projects that will position UC as a leader, attract extramural funding, recruit and retain outstanding faculty, enhance education and training, and positively impact lives and society in CA, the nation, and the world. 
+* Funding cannot be used for existing projects, core activities, or extending existing activities. 
+* Everyone must disclose current and concurrent UCOP funding.
+* A budget itemization and justification required only with full proposal.
+* Funds may not be used to cover patient care costs, clinical trials, patent execution costs, fundraising costs, subawards to non-UC-affiliated entities (except for community engagement), or indirect costs. 
+
+
+
+-----------------------------------
+### <a name"LOI">Notes on LOI
+
+
+
+
+-----------------------------------
+### <a name="plan">Our Plan
+
+* PI: Rachel Slaybaugh (assist. prof., UCB-NE)
+* co-PI: Nils Gronbech Jensen (full prof., UCD-materials)
+* co-PI: Someone from UCSF-medical, TBD
+* co-I: Peter Hosemann (assoc.prof., UCB-NE)
+* co-I: Max Fratoni (assist. prof., UCB-NE)
+* co-I: someone from UCD-physics? someone from UCSF-medical?
+* consultants (correct term?): 
+  - LANL IPF, Hong Back
+  - LBL isotope production, Jim O'Neil
+  - McClellan research reactor, Micheal Lerche (or someone else, I think he's leaving?)
+  - Lee Bernstein (full adjunct prof., UCB-NE + LBL + LLNL)
+
+Main idea: use a proton cyclotron for isotope production. 
+We will design and experiment on targets to make isotopes that are badly needed for medical purposes. 
+The end goal is to have a cyclotron that can fit in a truck and travel to sites as needed. 
+This would have a large health impact in CA immediately and, if successful, would present opportunities for commercialization to have a global impact. 
+
+The research that comes out of this has a strong chance of gaining additional funding (NIH, DOE, NSF, DHS, etc.) after the machine is acquired, the relationships are built, and initial research is conducted. 
+The possibility of commercialization would also bring in funds that could be used to support research activities. 
+If successful, this would also bring important recognition to UC and its capabilities.
+
+The personnel are in a variety of career stages and many of them have never collaborated before. 
+This is truly building new relationships with rich mentoring opportunities and brand new research opportunities. 
+A few people have relationships from past research, so there is sufficient experience to ensure success.  
+
+Graduate and undergraduate students and postdoctoral scholars will be involved in this research. 
+This is a unique opportunity to do research that has a combination of design, simulation, and experiment and that is also interdisciplinary. 
+Each university will bring a different department with a different viewpoint. 
+The students will get to interact with the researchers from each department, providing a unique crosscutting opportunity. 
+
+As an extension, the cyclotron can be incorporated into graduate and undergraduate laboratory courses, enriching the curricula of both.
+The machine will also be available for other research projects, creating deep and lasting opportunities for undergraduate and graduate students and post docs alike.
+
+A bonus impact is the relationship with LBL and LANL. 
+The students will have the opportunity to interact with these consultants, which could lead to job opportunities in the long run.
+
+(if  McClellan) A further bonus is the addition to the mission of the McClellan research reactor. 
+This is a unique and valuable facility that has recently experienced some challenges. 
+Identifying key ways that it can contribute to innovative research helps ensure the UC system maintains this valuable resource. 
+
+(We will need to beef up ideas about public engagement): Prof. Slaybaugh is adding a math and science tutoring initiative within an existing non profit in West Oakland whose mission is community development (tentative but likely).
+The students in the tutoring program could come to campus to visit the new cyclotron and learn about medical isotopes and health, materials science, modeling and simulation, nuclear physics, etc. 
+This initiative could provide funding for a shuttle to and from campus and box lunches. 
+If this is successful we could seek other funds or use funds from within the non profit. 
+
+Another idea for outreach could be a broader community education effort about medical isotopes. 
+This can be focused around awareness about UC's research, cancer treatment and medical therapies, how technology from other fields enhances medicine, etc.
+
+#### Budget
+(the dream funding:
+* cyclotron: ~$150k
+* 3 graduate students for 3 years ($60k*3*3 = $540k)
+* 1 post doc for 3 years ($80k*3 = $240k)
+* funding for 3 undergraduate researchers for 3 years ($12/hr * 10 hrs/wk * 40 wk/yr * 3 yr * 3 students = $43k) 
+* 1 month summer salary for 3 PIs for 3 years ($130k?)
+* 0.5 month summer salary for 2-4 co-Is for 3 years ($65k?)
+* outreach: $25k
+
+total: ~$1.2M 
+
+(May be too much? We will need firmer estimates on all of this and to really thing through what we need.)
