@@ -86,7 +86,7 @@ Amy Gee (RGPO C&G)
 
 
 -----------------------------------
-### <a name"RFP">Notes on RFP and FAQ
+### <a name="RFP">Notes on RFP and FAQ
 Things to catalyze: Innovative scholarship, Multicampus and systemwide collaboration, Graduate student training opportunities, Faculty collaboration across career states, Public engagement in the UC research mission, Undergraduate participation in research.
 
 LOI due Thursday, June 4 at noon pacific
@@ -117,7 +117,7 @@ Useful notes from the FAQ:
 
 
 -----------------------------------
-### <a name"LOI">Notes on LOI
+### <a name="loi">Notes on LOI
 
 Things we need to include beyond identifying information:
 * primary research field(s) and interdisciplinary area(s)
