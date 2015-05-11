@@ -1,9 +1,9 @@
 UC President Catalyst Award (PRCA) 2015
 
-  *[Webinar notes](#webinar)
-  *[RFP and FAQ notes](#RFP)
-  *[LOI notes](#loi)
-  *[Plan](#plan)
+  * [Webinar notes](#webinar)
+  * [RFP and FAQ notes](#RFP)
+  * [LOI notes](#loi)
+  * [Plan](#plan)
 
 ### <a name="webinar">Applicant Webinar  
 
