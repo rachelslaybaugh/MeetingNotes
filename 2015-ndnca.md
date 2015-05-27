@@ -42,11 +42,43 @@ May 27-29, 2015
 1) *LBNL Lab Facility Review*, Larry Phair
 
   - 88 inch cyclotron: 
-    - high intesity light ions (protons to 55  MeV, He-3 to 170 MeV)
+    - high intensity light ions (protons to 55  MeV, He-3 to 170 MeV)
     - heavy ions (5 to 32 MeV/nucleon, 0.2 - 0.5 Q/M) 
-  - BASE (Berkeley Accelerator Space Effects): support national security and other US space gprorams in the areas of radiation effects testing; protons 1-55 MeV; mimics cosmic ray damange
+  - BASE (Berkeley Accelerator Space Effects): support national security and other US space programs in the areas of radiation effects testing; protons 1-55 MeV; mimics cosmic ray damage
   - BASE also has cocktails: can get tailored thing b/c they inject multiple ions that can be injected all at one time. This allows them to extract certain frequencies. Look at LET that cause failures in things
   - a bunch of different ion sources used in these things (I am not sure if BASE is something different or goes into the 88 inch)
   - ECR is a group that does something with ion sources
-  - overview of where they are and where they could go (none of this stuff means really anything to me)
-   - however, need good shielding calculations - so it might be worthwhile for me to learn some of this stuff.
+  - overview of where they are and where they could go (none of this stuff means really anything to me)--however, need good shielding calculations - so it might be worthwhile for me to learn some of this stuff.
+
+2) *LANL Facility Review*, Ronald Nelson
+
+  - LANSCE (Los Alamos Neutron Science CEnter)
+  - 800 MeV proton linac driver
+  - multiple beams (H+, H-): 
+    - protons (200 - 800 MeV); pRad, Blue Room, Area A
+    - moderated neutrons (cold to 1 MeV); Lujan Center
+    - unmoderated neutrons (0.1 to 600 MeV); Weapons Nuclear Research (WNR) facility
+  - there is an ultra-cold neutron facility that is not a user facility
+  - Lujan center has largely been material science, but is expanding
+  - several targets are used for materials research
+  - there is a proposal process for the user facility
+
+3) *Capabilities*, Guy Savard, ANL
+
+  - ATLAS: low energy nuclear physics national user faclity
+  - stable beams at high intensity and energy (up to 10-20 MeV/u)
+  - adding new capabilities (CARIBU, intensity upgrade) and expanding equipment (HELIOS, digital gammasphere and DSSD, X-array; AGFA, AIRIS, N=126 factory, laser lab, beta-delayed neutron trap)
+  - CARIBU beams, heavy n-rich from Cf fission, no chemical limitations, low intensity, ATLAS beam quality, energies up to 15 MeV/u (part of ATLAS)
+  - retiring their linac
+  - CARIBU is their new fancy thing
+  - lots of numbers about ion sources that do not mean anything to me
+  - they have new techniques for beta-delayed neutron measurements
+  - slide for where they are pushing for improvements (worth looking at again; slide 18)
+  - applications is becoming one of the core components of the ATLAS long-range plan
+
+
+#### Session 2c: Capabilities Part 2
+
+1) *Association for Research at University Nuclear Accelerators Facilities Review*, Partha Chowdhury, Association for ...
+
+ 
