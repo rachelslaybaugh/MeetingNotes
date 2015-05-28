@@ -79,6 +79,61 @@ May 27-29, 2015
 
 #### Session 2c: Capabilities Part 2
 
-1) *Association for Research at University Nuclear Accelerators Facilities Review*, Partha Chowdhury, Association for ...
+1) *Association for Research at University Nuclear Accelerators Facilities Review*, Partha Chowdhury, Association for ... (U Mass Lowell)
 
- 
+  - quick run down of the facilities of the 8ish schools involved
+  - deeper description of what they have at Lowell
+  - talked fast; lots of info
+
+2) *RPI Facility Review*, Yaron Danon, RPI
+
+  - they collaborate very closely with KAPL
+  - I was not paying tons of attention, but he talked about capabilities and then presented a bunch of data and examples of what they are doing
+
+
+3) *ORNL Facilities Review*, Krzysztof Rykaczewski, ORNL
+
+  - HRIBF close April 2012
+  - 25 MeV tandem accelerator operated on a limited basis (cost recovery only)
+  - looks like they will shut this down over the next several years and their equipment will find other homes
+
+
+
+### <a name="day-20150528">Day 2: 2015/05/28 
+
+#### Session 3a: National Security Part 1
+
+1) *Needs for Neutron Reactions on Actinides*, Mark Chadwick, LANL
+
+  - came late and did not pay attention: but lots of interest from the room about putting these things in the white paper
+
+2) *Nuclear Data's Hidden Dysfunctia: Applications Don't Actually Depend on Structure, Do They?*, Morgan White, LANL
+
+ - there is no relationship between the "uncertainties" on the data and how well we know the data
+  - there is huge potential for large jumps in data values that get the same uncertainty assignment; we need a way to bound these things so we can have more certainty in our uncertainties
+  - theory and modeling are present; nuclear structure is not included
+  - there is little interaction between the communities of application and structure, this could be part of the problem
+  - nuclear theory uses structure data as a black box
+  - XUNDL and EXFOR should be held up for emulation
+  - TINDL (from Talys code) and RIPL-3: issues with blind use or abandonment, no feedback to community to figure out what and why - only choosing what matches integral experiments
+  - there are success stories of folding theory and results together to have a win
+  - structure data needs to be self-consistent and complete
+  - it is imperative to retread the "known" ground when it is of critical importance
+  - when you need to make up numbers, you need to have the people best able to make them up do it rather than someone down the pipe who knows even less!
+
+3) *Gamma Spectroscopic Data for Non-proliferation Applications*, Brad Sleaford, LLNL
+
+  - 260 nuclei missing 36k gamma lines
+  - IAEA + Budapest reactor combined with ENSDF -> RIPL (reaction input parameter library) + DICEBOX -> EGAF (evaluated gamma activation file) -> ENDF 
+  - some back and forth on these things as they feed back
+  - evaluation automation system that has dicebox as part of the system 
+
+
+#### Session 3b: National Security Part 2
+
+1) *Neutron Charged Particle Radiation Data Needs for NIF Implosion Experiments*, Charles Cerjan, LLNL
+
+
+
+
+
