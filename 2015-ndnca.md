@@ -109,7 +109,7 @@ May 27-29, 2015
 
 2) *Nuclear Data's Hidden Dysfunctia: Applications Don't Actually Depend on Structure, Do They?*, Morgan White, LANL
 
- - there is no relationship between the "uncertainties" on the data and how well we know the data
+  - there is no relationship between the "uncertainties" on the data and how well we know the data
   - there is huge potential for large jumps in data values that get the same uncertainty assignment; we need a way to bound these things so we can have more certainty in our uncertainties
   - theory and modeling are present; nuclear structure is not included
   - there is little interaction between the communities of application and structure, this could be part of the problem
@@ -133,7 +133,22 @@ May 27-29, 2015
 
 1) *Neutron Charged Particle Radiation Data Needs for NIF Implosion Experiments*, Charles Cerjan, LLNL
 
+2) *NRF Applications -- An Unplanned Examination of Nuclear Data for 1-5 MeV Photons*, Brian Quiter, LBNL
 
+  - Nuclear Resonance Fluorescence: good quick overview about this
+  - photon scatter data is not ENDF ready
+  - coherent = Rayleigh (still sort of studied) + Delbruck (stopped in 90s) + Nuclear Thomson + GDR (resonance?)
+  - found a bug in how scattering was handled in MCNP; fixed the coherent scattering after 2011, mattered for high Z materials, esp. at high energy
+  - still no photonuclear elastic scatter in ENDF database; improvement not being maintained in MCNP
+  - NJOY also has bugs: cannot process non-isotropic NRF
+  - photo-elastic scattering is only handled through form factors
+  - MCNP has a legacy bug that is also hard-coded into NJOY: impacts coherent and incoherent scattering at large angles
+  - some other applications that might be useful, but we do not really have the data yet
+
+3) *Fission Product Yields for Neutrino Physics and Non-proliferation*, Anna Hayes-Sterbenz, LANL
+
+
+#### Session 4: Medical Isotope Production
 
 
 
