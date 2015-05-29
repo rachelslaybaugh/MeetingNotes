@@ -384,3 +384,15 @@ Wish List:
 What about doing sensitivity to these things to see if it makes a difference? 
 If it does, then there is justification. 
 If not, we do not need to worry about it.
+
+
+#### Closing
+
+- need to clarify what is needed for what, how that maps to funding agencies, and what the impact of improving somethiing will be
+- help the agencies leverage together - may have higher likelihood of funding if they can be seen as cooperating
+- foa will come out (hopefully) and will be informed by the white paper
+- be specific!
+- those who generate and curate the data must talk to the users and employers of the data
+- we need to be more aware of the research calls that are out there
+- let's get a list of facilities that we can use so we know how to leverage which things
+- helpful in identifying and understanding the problems we really need to work on
