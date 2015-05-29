@@ -328,7 +328,7 @@ Do we need to do experiments to clarify/confirm? The best would be U or Pu, but 
   - UQ slide has good pros-cons lineup
     - continuous energy sensitivity analysis now available
     - extended to generalized perturbation theory, so now they can look at sensitivity to rxn rate ratios (this is where there could be use for MANTRA and use it for ATR analysis)
-     - the UQ sensitivity info is being used pretty broadly. The data is currently adjusted to integral measurements, so it is tailored to nuc rxtrs, but that does not help lots of applications
+    - the UQ sensitivity info is being used pretty broadly. The data is currently adjusted to integral measurements, so it is tailored to nuc rxtrs, but that does not help lots of applications
     - some challenges are b/c it is system-specific in some ways
   - Bayesian
     - take a bunch of benchmark data values and uncertainties and apply Bayesian analysis to get rid of "computational bias" to make an unbiased set to get exact agreement with the data (does not give data for values it does not match)
@@ -355,7 +355,7 @@ Wish List:
 
 
 5) Krzysztof Rykaczewski, Oak Ridge National Laboratory 
-* Beta-delayed neutron spectroscopy of fission fragments*
+*Beta-delayed neutron spectroscopy of fission fragments*
 
   - revival of beta-delayed neutron spectroscopy driven by several things (current data is widely inaccurate)
   - this could actually have an impact b/c some of them might be of high energy and that could actually matter
