@@ -133,6 +133,8 @@ May 27-29, 2015
 
 1) *Neutron Charged Particle Radiation Data Needs for NIF Implosion Experiments*, Charles Cerjan, LLNL
 
+  - did not really take any notes
+
 2) *NRF Applications -- An Unplanned Examination of Nuclear Data for 1-5 MeV Photons*, Brian Quiter, LBNL
 
   - Nuclear Resonance Fluorescence: good quick overview about this
@@ -147,8 +149,42 @@ May 27-29, 2015
 
 3) *Fission Product Yields for Neutrino Physics and Non-proliferation*, Anna Hayes-Sterbenz, LANL
 
+  - need to look at these slides b/c it talks about anti-neutrino spectra in reactors
+  - anti-neutrino anomaly: reanalysis of conversion of aggregate beta spectrum to an anti-neutrino spectrum
+  - known corrections to beta-decay are the main source of the anomaly
+  - issues with forbidden transitions as a knob to turn
+  - also, the "bump": around 5 MeV there is a deviation in experiment compared to prediction
+  - ENDF sees the bump and JEFF does not; the two libraries have different yields (which are much larger than the evaluated uncertainties of course)
+  - difference in measurements: one taken in France with a very thermal reactor (heavy water) and the others taken at PWRs with more epithermal neutrons
+  - it may be that one library is closer to thermal and one closer to thermal/epi - the libraries match the experiments differently
+  - information about how to use this for security: volatile fission product collection and measurement, etc.
+  - they need iodine (130 and 135) measurements for forensics
+  - need handful of FPs that dominate high-energy spectrum need to be measured for reactors
+  - summary slide is pretty good
+
 
 #### Session 4: Medical Isotope Production
 
+1) *Nuclear Data for Medical Radionuclide Production: Present Status and Future Needs*, Syed Qaim, Research Center Julich and U of Cologne
 
+2) *Nuclear Data, Nuclear Theory, and Isotopes*, David Dean, ORNL
 
+  - theoretical calculations need to include error estimates!
+  - slide 7 is a good overview of what goes into the calculation schemes
+  - most of what goes into these are parameterizations that lots of assumptions built into them; difficult to sort all of this out
+  - have we actually made progress? has changing parameters really done anything for us?
+
+3) *Nuclear Reaction and Decay Data for Medium Energy Radionuclide Production*, Jonathan Engle, LANL
+
+4) *Radioisotope Research and Production at Brookhaven Linac Isotope Producer*, Suzanne Smith, BNL
+
+  - This looks like a good reference for learning about this ucop initiative
+  - Pt radioisotopes appears to be a big thing
+  - also a good key goals/summary slide
+   
+
+#### Session 5: Capabilities Part 3
+
+1) *Michigan State University Facilities Review*, Sean Liddick, MSU
+
+2) *Triangle Universities Nuclear Laboratory Facilities Review*, Werner Tornow, Duke / High Intensity Gamma-Ray Source
