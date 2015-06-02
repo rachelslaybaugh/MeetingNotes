@@ -25,7 +25,7 @@ Amy Gee (RGPO C&G)
   - $7M in this competition, up to 3 years, start 1/1/16
   - One-time opportunity to "catalyze" President's Key Systemwide Research Goals
   - Innovative Scholarship: significant, novel contributions to knowledge, science, or scholarship
- - Compelling topics that have the potential to improve lives, etc. (buzzword heavy)
+  - Compelling topics that have the potential to improve lives, etc. (buzzword heavy)
 
 * Priorities (there's an FAQ that gives lots of info on these things)
   1. Catalyze multicampus, systemwide collaboration (systemwide impact and benefit)
