@@ -207,7 +207,8 @@ NE Breakout Session:
   - avoid issues with contamination, high sensitivity (10^-15 from 10^4) - keeps sample size down and keeps irradiation times short (50-100 days)
   - ATLAS facility: ion production at ECR, RFQ and PII Linac acceleration to 1MeV/u, Fragment Mass Analyzer (FMA) detector
   - challenge has been variety of isotopes they're trying to measure; they've developed a scaling program that facilitates isotope switching
-  - the ECR plasma sputtering strategy leaves material on the walls around the sample that can contaminate the next source; to get rid of that they now have a laser ablation technique, which lessens contamination
+  - the ECR plasma sputtering strategy leaves material on the walls around the sample that can contaminate the next source; 
+    to get rid of that they now have a laser ablation technique, which lessens contamination
   - can produce up to 1 enA of beam, peak-to-peak is unstable and they average out
   - laser minimizes cross talk compared to previous method
   - also have a multisample changer (hold 20), now done in 5 minutes per sample change; quick time helps reduce uncertainty
@@ -228,9 +229,11 @@ Future:
 
 Qs:
   - after irradiation, material is prepared for analysis at INL, they do some amount of analysis first as well
-  - the distinguishing feature of this method is the sensitivity and ability to use small samples irradiated for short amounts of time - this allows for measuring multiple capture xsecs
+  - the distinguishing feature of this method is the sensitivity and ability to use small samples irradiated for short amounts 
+    of time - this allows for measuring multiple capture xsecs
   - they have not been able to get standards for measurement; mostly getting ion source instabilities reduced so far
-  - assumptions on the charge state that could cause some uncertainty; however, there is no sensitivity so things happening differently in the ECR (which is why standards would help)
+  - assumptions on the charge state that could cause some uncertainty; however, there is no sensitivity so things happening 
+    differently in the ECR (which is why standards would help)
   - not measuring a specific Z, measuring mass; leads to questions about unfolding intermediate steps that are inside a given mass chain
   - U-238 will be the xsec the thing they measure to make sure they get the correct value for something well known
   - flux wires kept in ATR in each run that helps ensure the flux is consistent; though the spectrum has to be unfolded
@@ -244,34 +247,40 @@ Qs:
   - they would like a larger research component, they have space to irradiate stuff
   - 1990 original criticality, US Air Force was original owner for F111 fwing fighter bomber to look at low-level corrosion, but then the cold war ended
   - UCD took it over for BNCT to make it the west coast source, which also did not pan out...still on McClellan air force base, which closed in 2000
-  - 2 MW stead state; the core is 6 ft below grade to protect it from airplanes
+  - 2 MW steady state; the core is 6 ft below grade to protect it from airplanes
   - purpose built for radiographing very large things
   - thermal flux ~3x10^5 - 4.3x10^6
   - they also do electronic radiation hardness testing for defense apps; fast neutron irradiation
   - lots of new work in defense analysis and launch stuff for NASA (heavy lift rockets)
   - research with Davis is with plant department - for diseases and issues that affect wine (basically)
   - also hydrogen fuel cell radiography
-  - the upgrade to 2 MW was motivated by Si crystal doping, though that program has ended. They how run largely at 1 and 1.5 MW rather than 2 (which could be problematic for fuel integrity)
+  - the upgrade to 2 MW was motivated by Si crystal doping, though that program has ended. 
+    They now run largely at 1 and 1.5 MW rather than 2 (which could be problematic for fuel integrity)
   - slide with flux #s = 11
   - also have NAA, doing some SNM irradiation for LLNL
   - ability to pulse with SNM (pulse details on slide 14)
-  - 1 s xfer out of the pneumatic xfer system; ~30 minutes for sample removal out of core locations
+  - 1s xfer out of the pneumatic xfer system; ~30 minutes for sample removal out of core locations
   - MNRC has the broadest scope license in the US, so they can irradiate nearly anything
   - happy to get students involved
 
 3) Steven Grimes, Ohio U
-[1] *Comparison of Calculations of Neutron Cross Section son Deformed Nuclei Between Hauser-Feshback and Deformed Hauser-Feshbach Models*
+[1] *Comparison of Calculations of Neutron Cross Sections on Deformed Nuclei Between Hauser-Feshback and Deformed Hauser-Feshbach Models*
 
-  - Hauser-Feshbach enforces spherical symmetry, even when you're trying to model a deformed nucleus. Some ppl have used deformed level data, but that's it
+  - Hauser-Feshbach enforces spherical symmetry, even when you're trying to model a deformed nucleus. 
+    Some ppl have used deformed level data, but that's it
   - accuracy issues associated with the presence of isospins, though that differs
-  - a new formulation was made that accounts for isospin to attempt to deal with this; need to invoke isospin mixing that does some conservation and then can match experiment
+  - a new formulation was made that accounts for isospin to attempt to deal with this; 
+    need to invoke isospin mixing that does some conservation and then can match experiment
   - have a mu parameter that varies between 0 and 1 where each bound leads to some limit; experiments have show 0.3-0.7 as the useful value
   - this is about an analogous situation for K (for deformation)
   - K selection rules; rules associate with J (turns decays off that are not allowed in deformed basis that would be allowed in a spherical basis)
   - this matters in our ability to calculate U
   - calculations with this new idea are n + several isotopes (Er-168, W-183, W-182, Mg-25), and alpha on Ne-22 -> does not yet do fission
-  - results are ratio of spherical HF compared to deformed HF; J state impact varies by state and energy in how off the spherical case is compared to this new theory
-  - continuum effects are small, but average is 20-30% change; large J resolved states are universally reduced; small J states are enhanced b/c of the degeneracy that he covers
+  - results are ratio of spherical HF compared to deformed HF; 
+    J state impact varies by state and energy in how off the spherical case is compared to this new theory
+  - continuum effects are small, but average is 20-30% change; 
+    large J resolved states are universally reduced; 
+    small J states are enhanced b/c of the degeneracy that he covers
   - there is low sensitivity to K mixing; complete K mixing does not limit to traditional HF
   - next steps are adding fission
 He posits that this new model really needs to be used in evaluations and predictions; therefore EMPIRE and TALYS need these options
@@ -281,7 +290,9 @@ He posits that this new model really needs to be used in evaluations and predict
   - if you give the code the correct level density it will do the correct thing for combinations of things
   - will not do triaxially deformed nuclei
 
-Do we need to do experiments to clarify/confirm? The best would be U or Pu, but the level states are too close together. They're trying to do Mg (?) experiments. 
+Do we need to do experiments to clarify/confirm? 
+The best would be U or Pu, but the level states are too close together. 
+They're trying to do Mg (?) experiments. 
 
 [2] *Recent measurements*, just given verbally
   - 4.5 MV tandem accelerator
@@ -311,9 +322,11 @@ Do we need to do experiments to clarify/confirm? The best would be U or Pu, but 
 
   - 3 main projects in mod and sim: SCALE (licensing), exnihilo (HPC), nuclear data (SAMMY code; measurements to libraries)
     - SCALE V&V and UQ fed into data needs; data and SCALE modular physics go into exnihilo; high-fidelity apps from ex feed back into nuc data
-    - generate continuous energy n and gamma xsecs; do problem-dependent corrections with loaded Doppler broadening - may look at on the fly in the future. Can also make multigroup n and gamma xsecs; have resonance self-shielding methods for that
+    - generate continuous energy n and gamma xsecs; do problem-dependent corrections with loaded Doppler broadening - may look at on the fly in the future.
+      Can also make multigroup n and gamma xsecs; have resonance self-shielding methods for that
     - data corrections fed back to ENDF team; really driven by application b/c they have so many real app users and they need things to be correct
-  - sensitivity and uncertainty analysis: critical systems and rxn rate ratios (may be helped by MANTRA experiment); they do not yet do kinetics - depletion not transients
+  - sensitivity and uncertainty analysis: critical systems and rxn rate ratios (may be helped by MANTRA experiment); 
+    they do not yet do kinetics - depletion not transients
   - putting an adjoint version of origen together...
   - V&V is one of their initiatives that can send feedback into the data world
   - we're good at long-lived isotopes; we're not as good at short-lived isotopes (which matter in accident scenarios)
@@ -321,23 +334,28 @@ Do we need to do experiments to clarify/confirm? The best would be U or Pu, but 
   - knowledge management slide is a good thought framer
   - need sensitivity and covariance, so can characterize how much uncertainty is introduced into your system from the uncertainties in the data
     - a clear issue is that the covariances are not good, so using it is highly suspect
-    - decided to have a complete set rather than an accurate set as CSWEG; it is only okay if it does not give you a smaller uncertainty - if it gives you larger it is conservative, but it could be overly expensive. 
+    - decided to have a complete set rather than an accurate set as CSWEG; 
+      it is only okay if it does not give you a smaller uncertainty - if it gives you larger it is conservative, but it could be overly expensive. 
     - however, looking at correlations could therefore be fraught and using this for decision making may be wrong
     - assume that biases are from the data and that those uncertainties are bounded by the covariance data
   - can also use this for gap analysis - used for strategic experiment design (can try to do this better with better tools!)
   - UQ slide has good pros-cons lineup
     - continuous energy sensitivity analysis now available
-    - extended to generalized perturbation theory, so now they can look at sensitivity to rxn rate ratios (this is where there could be use for MANTRA and use it for ATR analysis)
-    - the UQ sensitivity info is being used pretty broadly. The data is currently adjusted to integral measurements, so it is tailored to nuc rxtrs, but that does not help lots of applications
+    - extended to generalized perturbation theory, so now they can look at sensitivity to rxn rate ratios 
+      (this is where there could be use for MANTRA and use it for ATR analysis)
+    - the UQ sensitivity info is being used pretty broadly. The data is currently adjusted to integral measurements, 
+      so it is tailored to nuc rxtrs, but that does not help lots of applications
     - some challenges are b/c it is system-specific in some ways
   - Bayesian
-    - take a bunch of benchmark data values and uncertainties and apply Bayesian analysis to get rid of "computational bias" to make an unbiased set to get exact agreement with the data (does not give data for values it does not match)
+    - take a bunch of benchmark data values and uncertainties and apply Bayesian analysis to get rid of "computational bias".
+      To make an unbiased set to get exact agreement with the data (does not give data for values it does not match)
     - that whole thing gives xsec update suggestions
     - U-235 nubar is good, Pu-239 nubar is overpredicted based on this stuff
     - U-238 n-gamma is not good
     - Pu-239 fission is okay...
   - they identified and fed back data issues that has been corrected
-  - some issues with FP uncertainty that has used fuel implications, Eu-155 - have rankings of issues that might impact licensing; we need to know if the changes in covariance data are real or if they'll just jump around in the future; how do we deal with that for licensing?
+  - some issues with FP uncertainty that has used fuel implications, Eu-155 - have rankings of issues that might impact licensing; 
+    we need to know if the changes in covariance data are real or if they'll just jump around in the future; how do we deal with that for licensing?
   - gamma production data
     - many libraries don't have the data (exist in some cases but not yet evaluated, communicated) - important to HFIR
     - combined all the libraries to get as much gamma production data as possible
