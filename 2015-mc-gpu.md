@@ -4,12 +4,13 @@ Ecole Polytechnique; Paris, France
 
 10 July, 2015
 
-### Speakers
+### <a name="top">Speakers
 * [1: Francois Courteillei, NVIDIA](#nvidia)
 * [2: Ryan Bergmann, PSI](#psi)
 * [3: F.X. Hugot, CEA Saclay](#cea1)
 * [4: Emeric Brun, CEA Saclay](#cea2)
 * [6: G. Grasseau, Ecole Polytechnique](#ecole-poly)
+* [7: Pierre Kestener, CEA Saclay](#cea3)
 
 #### <a name="nvidia">Francois Courteillei (NVIDIA): Programming Models for Pre-Exascale Systems
 
@@ -59,6 +60,8 @@ Ecole Polytechnique; Paris, France
 - Slide mapping OpenACC to OpenMP functionality.
 - Languages slide looks useful (to keep track of all the names...)
 
+[Speaker List](#top)
+
 
 #### <a name="psi">Ryan Bergmann (PSI): tutorial on WARP
 - OptiX does acceleration automatically
@@ -68,6 +71,8 @@ Ecole Polytechnique; Paris, France
   (as long as you do it after the fission bank is converged). Could be worth thinking about...
 - Knowing which thing we are bound by (in this case it is largely latency followed by
   memory I think) helps dictate good strategies.
+
+[Speaker List](#top)
 
 
 #### <a name="cea1">F.X. Hugot (CEA Saclay): Using CUDA/Thrust for NVIDIA GPU...
@@ -104,9 +109,61 @@ Ecole Polytechnique; Paris, France
 - Punchline: cuda/thrust provides access to large speedups for gpus, cpus with tbb or openmp,
   or on mics. Allows structures programming; can get preliminary results.
 
+[Speaker List](#top)
+
 
 #### <a name="cea2">Emeric Brun (CEA Saclay): Status of the development of Patmos
+- Tripoli-4 targets reactor physics applications
+- Volumes - 100 GB, temps - 150 GB, tallies - 700 GB
+- Need to distribute memory over nodes and share memory inside nodes
+- Trend: more nodes with more cores with less memory per core
+- slide 5 is a good summary of current algorithm, which highlights issues w/ porting to GPU
+- PATMOS: PArticle Transport Monte carlo Object oriented System
+- Designed to test new architectures; build a class library for fast prototyping
+  and testing new algorithms
+- Initial choices:
+  - object oriented design; polymorphism for mixing algorithms
+  - Python for prototyping
+  - C++ with hybrid parallelism for performance analysis
+  - Scoring has been separated from simulation. This allows separation of strategies
+    between simulation and scoring.
+- Sort of like a miniapp; 
+  - investigating n xport but not full physics
+  - x-secs from ACE: elastic, discrete inelastic, absorption
+  - OTF Doppler broadening
+  - Only fixed source
+- Simplified geometry: slab or ROOT library
+- Limited tallies: 
+  - flux w/ collision and track estimators
+  - flux spectrum
+  - flux on a regular grid
+- On-node parallelism: separated non-mutable data in shared objects from mutable data 
+  encapsulated in light objects duplicated on each thread
+- Shared memory: OpenMP, native thread from C++11, Intel TBB is on going
+- Scores are shared objects modified through atomic adds
+- They found that using pre-tabulated x-secs does not strong scale well compared to OTF DB
+- Weak-scaling study: 1, 8, and 16 threads / MPI task. 16 was best, 8 not much worse, 1 poor.
+- They had concurrent reading of all XS data files by all the MPI ranks
+- Distributed memory parallelization: only MPI rank 0 reads XS data, then broadcasts to
+  the other MPI tasks. That worked much better to reduce initialization overhead.
+- Added hyperthreading - this gave a 1.5 gain.
+- Initial investigation into putting on MICs (KNC): PhD thesis for Yunsong Wang. 
+  No optimization or vectorization yet; just first attempt to get it to run. 
+  Scales well, but performance is not great. Next to optimize.
+- Map of the kinds of problems they want to solve by when. Also scaling studies on Titan. 
+- Improve porting to Intel Xeon Phi; also looking at GPUs w nvidia as collaborator.
 
+[Speaker List](#top)
 
 
 #### <a name="ecole-poly">G. Grasseau (Ecole Polytechnique): The Matrix Element Method (MEM) for the Higgs boson data analysis on GPUs
+
+
+[Speaker List](#top)
+
+
+#### <a name="cea3">Pierre Kestener (CEA Saclay): High-resolution simulation of magneto-hydrodymanics (MHD) flows for astrophysics applications
+
+
+[Speaker List](#top)
+
