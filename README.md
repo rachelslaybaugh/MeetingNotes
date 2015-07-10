@@ -15,4 +15,4 @@ Conferences / meetings
 General notes
 * [CRAM in PyNE](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/cram-pyne.md)
 * [UCOP Catalyst 2015 Proposal](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/ucop-catalyst-2015.md)
-* [Website ideas]((https://github.com/rachelslaybaugh/MeetingNotes/blob/master/website.md)
+* [Website ideas](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/website.md)
