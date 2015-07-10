@@ -5,12 +5,12 @@ Ecole Polytechnique; Paris, France
 10 July, 2015
 
 ### <a name="top">Speakers
-* [1: Francois Courteillei, NVIDIA](#nvidia)
-* [2: Ryan Bergmann, PSI](#psi)
-* [3: F.X. Hugot, CEA Saclay](#cea1)
-* [4: Emeric Brun, CEA Saclay](#cea2)
-* [6: G. Grasseau, Ecole Polytechnique](#ecole-poly)
-* [7: Pierre Kestener, CEA Saclay](#cea3)
+1. [Francois Courteillei, NVIDIA](#nvidia)
+2. [Ryan Bergmann, PSI](#psi)
+3. [F.X. Hugot, CEA Saclay](#cea1)
+4. [Emeric Brun, CEA Saclay](#cea2)
+6. [G. Grasseau, Ecole Polytechnique](#ecole-poly)
+7. [Pierre Kestener, CEA Saclay](#cea3)
 
 #### <a name="nvidia">Francois Courteillei (NVIDIA): Programming Models for Pre-Exascale Systems
 
@@ -118,7 +118,7 @@ Ecole Polytechnique; Paris, France
 - Need to distribute memory over nodes and share memory inside nodes
 - Trend: more nodes with more cores with less memory per core
 - slide 5 is a good summary of current algorithm, which highlights issues w/ porting to GPU
-- PATMOS: PArticle Transport Monte carlo Object oriented System
+- PATMOS: _PA_rticle _T_ransport _M_onte Carlo _O_bject Oriented _S_+stem
 - Designed to test new architectures; build a class library for fast prototyping
   and testing new algorithms
 - Initial choices:
@@ -157,13 +157,55 @@ Ecole Polytechnique; Paris, France
 
 
 #### <a name="ecole-poly">G. Grasseau (Ecole Polytechnique): The Matrix Element Method (MEM) for the Higgs boson data analysis on GPUs
-
+- Some physics stuff that I do not know anything about...
+- pdfs built from differential x-secs
+- CMS detector measures outgoing particles: jets from out-going quarks, leptons, 
+  possible hadronic systems
+- This gives quantities over which to integrate: continua of possibilities
+- (note: I did not get a good handle on the algorithms, so I have no idea how this 
+   correlates to anything in MC for n xport).
+- Code that models this was first parallelized using MPI
+  - They used VEGAS, MadGraph, and LHAPDF
+  - good scaling (scaled to 4 x 16 processes); production code on 200-400 cores
+- Currently working on MPI/OpenCL implementation
+  - OpenCL only knows C99; had to translate C++ and Fortran to C99
+  - have to deal with this for all of their libraries
+- 25,000 likes of kernel code compiled for K20 GPU and/or Xeon Phi.
+- Found better speedups with K20 than Phi. 
+- There are high-dimensional integrals, but I am not sure how exactly this maps to our work.
 
 [Speaker List](#top)
 
 
 #### <a name="cea3">Pierre Kestener (CEA Saclay): High-resolution simulation of magneto-hydrodymanics (MHD) flows for astrophysics applications
-
+- Porting finite vol / finite diff schemes (for regular grids) are said to be easy to do for GPUs
+- However, there can be performance impacts:
+  - complex numerical schemes (large # flops / cell)
+  - data precision
+  - intrinsic instructions
+  - algorithm: split / unsplit schemes
+  - physics: hydro / MHD / Riemann solver
+- Ramses-GPU is developed in cuda/c for astrophysics MHD apps on regular grids
+- 53k loc, 10k loc in cuda
+- Really big computational scope; really hard boundary conditions
+- Started development on GPU 5 years ago
+- Pseudoalgorithm on slide 14; 
+  - huge # of flops; 
+  - cuda/c parallelization strategy: 
+    - loops over i and j are unfolded; 
+    - each thread receives a z-column to deal with
+    - allows some refactoring (missed details)
+- Have directional splitting in 3D version
+- Need to ensure subdomain sizes are large enough to provide enough work for GPU
+- Single precision is much faster than double precision
+- Tuned max register count for Kepler, worrying about read-only data cache; 
+  no more register spilling so DP performance was better
+- MHD part uses much more memory than pure hydrodynamics; they did a z-blocking
+  technique to optimize memory footprint. That was a big win (5.8 GB/GPU to 1.9)
+- IO is a major concern. Lustre stripe count was the highest-impact parameter. 
+  Used PNetCDF for IO.
+- Ongoing / future work: coupling to paraview/catalyst for in-situ visualization; 
+  CLAMR for AMR; more limitations on file writing; ...
 
 [Speaker List](#top)
 
