@@ -1,12 +1,42 @@
 ## Nuclear Engineering Department Colloquia
 
 ### Meeting list
+* [Joseph Lassiter, III: 2015/10/12](#talk-20151012)
 * [Chris Clement: 2015/05/04](#talk-20150504)
 * [Omar Hurricane: 2014/04/28](#talk-20140428)
 * [Paul Slovic: 2014/04/21](#talk-20140421)
 * [Cameron Geddes: 2014/03/10](#talk-20140310)
 
 ***
+
+### <a name="talk-20151012">Joseph Lassiter, III, Rethinking Nuclear, Can We Change the World's Cumulative Energy Emissions Soon Enough?: 2015/10/12
+
+- Energy's Gordian Knot: how do you get 2 billion people out of energy + contain the environmental cost of doing so + protecting citizens from issues related to security of supply (what about economic cost?)
+- He thinks U.S. data about China is more accurate the IEA, but IEA data is more accurate about U.S. than EIA.
+- Juxtaposition: India cannot grow in CO2-emitting technology; China must decrease CO2-emitting technology
+- thinking about predicting these changes in temperature way out doesn't include any change in behavior or (likely?) limits in the feedback mechanisms. It's so uncertain what will really happen...
+- slide 9: capacity vs. production
+- china: green economy for exports to oecd-type countries, brown economy internally, and brown economy for exports to lower economic countries
+- China has had a radical decrease in poverty (concern about civil liberties)
+- Premature death causes (!): outdoor = coal + biomass; indoor is heating and cooking fuel (can be corrected w clean energy)
+- Impact shows dirty energy beats no energy; clean energy beats dirty energy from a public health perspective
+- Air pollution is a rich country problem
+- 1B w/out electricty; 2B w/out clean cooking fuels
+- slide 19: if we mine in China or India instead of EU then the # goes up 4-5x; shortened lives also higher
+- U.S. coal mining deaths are way lower
+- slide 21: gas and nuclear flip based on country; but not true anymore if the capital costs aren't tamped down b/c we suck at building plants well now
+- They're too expensive and too slow to build...(regulations, public perception)
+
+Serious call to action.
+
+- Build rxts like ships or airplanes, not like fortresses from the middle ages.
+- How do we get real progress? Let people iterate their designs and have experiments (how in god's name do we do that?). We should have called this guy for the innovation summit [I need to read that executive summary].
+- Where in here are the limits on source materials? Limits on building capacity? All of this stuff...
+- Talk to people going to COP21...
+- Seems to underestimate difficulty of regulatory hurdles for the experiment building and the technology transfer
+- Some of the regulatory stuff is Secretary-level decision as opposed to law
+
+
 
 ### <a name="talk-20150504">Chris Clement, ICRP: 2015/05/04
 
