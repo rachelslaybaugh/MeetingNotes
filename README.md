@@ -13,6 +13,7 @@ General notes
 
 
 Conferences / meetings
+* [2015 DMML](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-dmml.md)
 * [2015 dept retreat](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-dept.retreat.md)
 * [MC on GPU Workshop](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-mc-gpu.md)
 * [Nuclear Data (NDNCA) 2015](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-ndnca.md)
