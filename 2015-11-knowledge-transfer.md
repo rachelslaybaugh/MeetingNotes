@@ -82,16 +82,34 @@ Nuclear Energy Fundamentals; George Borlodan
   - Valve terms: bonnet: mates with the body of the valve and supports the stem, disk, and valve actuator. Disk controls the flow. 
   - Motor terms: AC induction motor: uses a series of conductors (must be ac), the 3 phases rotate, induces magnetic field, rotor follows. Slip is the difference between the stator rotating field speed and the rotor. Starting current can be 6x the full load operating current. Synchronous motor: rotor field is created externally, rotor speed = stator rotating field. Locked rotor: too much load cases rotor to stop and current just goes up (on induction motor). 
   - Generator terms: true power: power consumed by the resistive loads in an electrical circuit [W]; reactive power, power consumed in the AC circuit because of the expansion and contraction of the magnetic and electrostatic fields (fake, but measurable. does not require work, but wires need to be able to carry it) [VAR]. Power Factor: difference between true and apparent. Apparent is voltage and current (hypotenuse). Paralleling: get voltage and frequency to be aligned to connect a generator to an AC circuit. 
-  - 
+   
+
+
+Fukushima Daiichi Accident Video part 1
+
 
 Selected LWR Plant System Overview; George Borlodan
-
-
-Fukushima Daiichi Accident Video
+- explanation of systems on PWRs. regenerative heat exchanger is a crud trap. Drew some things on diagram
+- lots of info about flow rates and things not on the picture that I did not catch all of.
+- Westinghouse SGs are above to take advantage of gravity and natural circulation. Note: only one pressurizer on 4 loops. 
+- BWR the hot leg goes way up (candy cane) then thru straight pipes, 2 cold legs and 2 pumps come out of the bottom. This design gets superheated b/c the cooler steam from the bottom goes up and passes the hotter water and gets a boost. However, no inventory in the SG. 
+- something about J tubes to prevent water hammer and NRC arguing about whether or not they were safety related. 
+- exit of swirl vanes, 80-90% quality; then chevron separators keeps the water from making the zig-zag turns. 
+- fuel rods do not touch bottom or top nozzle. The springs hold them in and they can expand in either direction.
+- PWR Tav = 547 F with no load, 577 F at full load (forced Tav) because of the steam pressure.
+- in a PWR you control the turbine to change power: more power takes more steam from steam generator, which makes more cold water enter reactor, which adds positive reactivity, increasing power. This relies on negative moderator temp coeff. They pick up real power from the grid to do this. The operator then has to change reactivity control to keep Tav at the right place. 
+- PWR containment is designed for complete evacuation of the primary system (double-ended guilliotine) BWR containment is small and designed for a full break of a recirc line and emptying of reactor. 
+- no atmospheric release valves on BWR to keep radiation inside - instead discharge them through suppression pools to filter; spargers to remove heat. 
+- BWR recirc strategy is to keep average water level higher to prevent dryout.
+- Water used in hydraulic cr working is the same as the condensate water so it's okay if it leaks. 
+- on BWR startup no recirc flow to let things heat up. To cooldown do steam dump to the condenser, residual heat removal when low pressure.
+- in a BWR power control is by pump speed. Reactivity control is done with control rods. To increase power, increase flow, this causes increased reactor power because there's less voiding. This heats up, more steam, control valves open more, more torque on generator = more electricity (turbine at constant speed). You set reactor power at what you think will make the right kW amount, and the controls follow (PWR is reversed). 
 
 
 Nuclear Safety Design Overview; George Borlodan
-
+- 3 safety functions: keep core controlled, keep core cool, keep core contained, 
+- containment for Hinkley C: 150 pounds. Yeah, these things are expensive.
+- went to notes on paper...
 
 Regulation and Industry Groups; George Borlodan
 
