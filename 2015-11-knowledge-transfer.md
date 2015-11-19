@@ -178,9 +178,58 @@ Design; Henry Stone, Robert Brodsky, Phil Hildebrandt, Herb Estrada
 
 #### <a name="day3"> Day 3
 
+Design; Henry Stone, Robert Brodsky, Phil Hildebrandt, Herb Estrada
+- serendipity does not count as defense in depth
+- the problem at Davis Besse when they had this cross line backup plan thing that was an issue, they ultimately solved the problem by adding diversity of pumps; they did this because it was a backfit and it was a complex problem. They would have done it totally differently if they had planned from the start.
+- Browns Ferry fire wiring things required addition of all kinds of things, which ended up being very expensive for the industry. Appendix R. This required increased staff to go deal with things in case there's a fire in the control room. Big requirements about separation in the cable spreading room so that one fire can't take everything out. Need a 20ft separation, a remote shutdown panel, and up to a 3 hour fire barrier between paths. 
+- Lots of issues with not doing sufficient testing at scale or in the appropriate conditions. This ends up being really expensive and potentially unsafe. Really tough to get all of these things fully vetted and thought through. 
+- How do we make sure that DOE participates by building the test and support facilities really needed to support nuclear? NRC isn't going to build the stuff that industry needs for testing; industry can't afford to build the stuff that it needs for testing. This is the real role of DOE. It's good that all of these agencies are separated, but we need to ensure strategic coordination to make sure that real issues get addressed. 
+- Slide 36 is really good. New designs need:
+  - Intrinsic Safety
+  - Simple, robust design
+  - Impervious to direct and consequential effects of external events
+  - Operator action not required to mitigate accidents, nor can they cause or worsen accidents
+  - No off-site impacts (public safety, environmental, or economic) of severe accidents [is this a realistic thing to attempt to achieve? Is it even possible?]
+- Historically, the approach to design has been to fix issues, not to start with a simple approach.
+
+
+Licensed Operations; George Borlodan
+- Accidents happen fast. Alarms go off and things trip, they're just figuring out at all what's going on - get the procedure out, check that this thing is off, then just start figuring out what information they have. 
+- Davis Besse 1977: an indication came in that made them say "close the porv block valve just in case" and that fixed it; 20 minutes into event - basically was just to try something. They didn't even know what they did. 
+- Transferring from navy vessels to commercial isn't as straightforward as they may have thought - things really were different. 
+- Development of systematic training taken from army model: Analysis Design Development Implementation Evaluation is how you build your training program. Think carefully about what needs to be known and all of the steps (A), how will it best be taught (D), develop the tools for teaching it (D), teach it (I), and figure out if they learned it (E). Refine as necessary. This approach is part of INPO training accreditation. Also part of 10 CFR 50 and 55.
+- Personnel challenge in France during outages: they can only work 60 hour weeks and are limited to 12 hour days.  
+- In the 90s shift from focus at all levels of the organization from implementing high safety standards to justifying minimum safety standards. All driven by economics.
+- 90s: slide 26 is good. 
+- Fukushima operator lessons are about training for extreme events and thinking about how to provide support for emotional impacts in extreme events.
+- passive: let's call it nature-powered safety
+- "A computer is only as good as the human who programmed it".
+- The role of the operator must be clearly understood throughout all parts of the design process. Need Systematic Approach to Training based on control room tasks. Professionalism.  
+
 
 Fukushima Daiichi Accident Video part 2
+- Keep cognizant of the impacts of Fukushima and Chernobyl. It is important to really keep this close to my thinking when thinking about nuclear.
 
- 
+
+Human-Machine Interface; Herb Estrada, George Borlodan
+- focus on the complexity of the Rankine cycle and all of the things that operators have to think about.
+- it is important to design this well, and it is also hard.
+
+
+Testing and Surveillance; Phil Hildebrandt
+- Need to understand what you are actually trying to test
+- Need to monitor what you think you are monitoring
+- Need to incorporate lessons learned into testing and surveillance
+
+
+Economics; Greg Gibbs
+- Read through these materials, we went sorta fast and my eyes were already starting to cross (4pm of 3rd day).
+- IMPORTANT: Shannon about uses of nuclear in combo with renewables to have them all be on all the time: uses for excess electricity, heat, something to capitalize on this. 
+
+
+Closing; Phil Hildebrandt
+- send comments; specifically about doing this for faculty. 
+
+
 [Index](#top)
 
