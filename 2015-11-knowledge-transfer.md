@@ -16,15 +16,9 @@ Slides for all talks provided in associated folder.
 Nuclear Energy Fundamentals; George Borlodan
 * neutronics
   - started in navy, licensed on 3 commercial plants, deep industry experience
-  - lots of basic terms: fissile, fission, energy release, 1 eV is 10^-16 J
-  - fission products are the thing that we worry about; their existence is what causes decay heat (up to 6% of rated power) that can cause accidents and produce radiation, which is the thing we don't want to be released.
-  - we went through the 6 factor formula to get to k (fast fission about 3% contribution)
-  - also, everything in the reactor has a male pronoun
   - how long neutrons live fast: 10^-4 s; 3-4 collisions
   - 10^-6 seconds at thermal
-  - Xe-135 is about 6% of fission products (whole chain); born directly it is (not stated)
-  - Noting that Xe-135 decays and Sm builds up and is only removed by neutron interaction. This is important for how they behave. 
-  - methods of reactivity control: control rods (which causes local suppression and burn imbalance, which we have to think about carefully), soluble neutron 
+  - methods of reactivity control: control rods (which causes local suppression and burn imbalance, which we have to think about carefully), soluble absorber 
   - 4500 MWth
 
 * control
@@ -47,24 +41,17 @@ Nuclear Energy Fundamentals; George Borlodan
   - addition of more heat after all steam results in increased temperature but not pressure (superheat)
   - PWRs are pressurized to prevent boiling; pressure is therefore felt throughout the RCS (610 F outlet temp; 652 F at 2235 psia is saturation temp)
   - BWRs are at saturation temperature, lower pressure, high level of circulation flow
-  - conduction v. convection v. radiation
-  - PWR: fuel pellet -> helium gap (conduction) -> cladding (conduction) -> boundary (laminar) layer (conduction; try to diminish layer through mixing) -> bulk flow (convection)
   - PWR: forced convection transfers steam from reactor to steam generator; when pumps fail can still take advantage of natural convection caused by density differences
   - thought experiment: what if steam generator looses supply of cooling water? Will remove heat until it boils dry, fast, heat removal stops. 
-  - Critical Heat Flux is when we cause departure from nucleate boiling, which hoses us. Function of temp, pressure, reactor power, flow rate
-  - nucleate boiling, good for heat transfer. subcooled boiling, still good. Bubble flow ok in BWRs, try to avoid in PWRs. Slug flow, try to avoid in PWRs, still ok in BWR. Annular flow: maybe ok in BWRs. Mist flow = bad. 
-  - flim dryout is the thing we care about in boilers
 
 * Radiation principles
-  - types of radiation
-  - Absorbed dose: energy imparted by ionizing radiation / unit mass (rad or gray). Quality factor: accounts for biological damage. Dose equivalent is the multiplication of the two (1 Sv = 100 rem).
 
 * LWR chemistry (might need to review these slides again
   - general corrosion can yield particles that break loose and can become crud and get activated in primary; can just gunk up secondary; pH control to prevent it; sludge lancing
   - worry about scc. PWRs this is in steam generators, BWR thing is in slide
   - good intersection slide
   - Chemistry control in PWRs: Li-OH early in life to establish basic pH. Later, B in solution becomes Li to do this, so we remove Li slowly over time by ion exchange
-  - de-oxygenation to prevent corrosion by adding H2 - it recombines with O under the strong radiation environment. added as a gas in chem and vol control system vol control tank. Also have to worry about degassing. Add N to get the H out and burp it.
+  - De-oxygenation to prevent corrosion by adding H2 - it recombines with O under the strong radiation environment. Added as a gas in chem and vol control system vol control tank. Also have to worry about degassing. Add N to get the H out and burp it.
   - specific chemicals are added, like Zn, for specific scc prevention
   - for secondary most PWRs use all volatile treatment (AVT): hydrazine removes O at lower temp and transforms to ammonium at higher temp to raise pH
   - also, BWR notes. There is a bigger dose rate and release issue because of the single loop. Competing things, H2 helps prevent SCC but increases N-16 dose rates. They add a delay line to help reduce the gamma impact of N-17
@@ -111,21 +98,88 @@ Nuclear Safety Design Overview; George Borlodan
 - containment for Hinkley C: 150 pounds. Yeah, these things are expensive.
 - went to notes on paper...
 
-Regulation and Industry Groups; George Borlodan
-
- 
 [Index](#top)
 
 
 
 #### <a name="day2"> Day 2
 
+Regulation and Industry Groups; George Borlodan
+- Title 10 of CFR in the US is very large. In the UK the rules are implicit, in US they're explicit. 
+- made a leak-proof containment for reactors near large population centers: NY and Chicago; pretty cool technology
+- Appendix A: general design criteria (could be useful in this startup think-through thing). 
+- Appendix B: Quality Assurance Criteria (again, a thing that will be useful for this).
+- INPO: owned and operated by utilities. Promotes best practices, guidelines, etc. 4 cornerstones. 
+- WANO and INPO have strong communication, but are separate. WANO started after Chernobyl
+
+
+-----------------------------------------------------------
+Introduction; Phil Hildebrandt
+- Hi to Per
+- Naval vessels are weapons delivery platforms that happen to be propelled by reactors; they're not plants.
+- We started with the navy, but the needs are totally different (e.g. people live on these, so we have to make different kinds of choices - can't do BWRs, for example). 
+- each plant has it's own personality. 
+- L->R TMI unit 2 on right, the one with an accident. Unit 1 and 2 are different plants, designed by different companies. Involvement in the design of 1 was more involved than 2. Totally different personalities. Davis Bessie, B&W, but a different plant that's in northwest Ohio; different cultures in different locations. La Salle, BWR, misoperated by management. DC Cooke, ice condenser plant that was an Achilles heel.
+- Think about how all of these things affect what we do. Transfer knowledge to the next generation of leaders (it seems a little random that I'm here).
+- slide 6: in recent years, operators, maintenance, and owning companies engineers are starting to have more input into design and regulation choices. How is something going to be used in the field. Dedicated commercial grade: I have a design need, only source is commercial, I have to demonstrate that it is ok to use that.  
+
+
+Role of Management; Phil Hildebrandt
+- management is woven into the tapestry of everything that happens; no excuses, but management crafts the context in which things happen
+- I like slide 3. Tension between science and operation. 
+- Direct conflict of view of who was responsible for safety: owner thinks reg, reg thinks owner, operator views owner trumps regulator
+- We oversold how easy nuclear was going to be - so some utilities got into the industry that should not have; they weren't prepared to take on the challenge beyond just operating large fossil plants.
+- New view has corrected some of these flaws. Part of why PAAA makes sense is because the utilities don't actually own the fuel, they manage it. PAAA is an insurance policy, not a liability statement. We get to view it that way in part because of this fuel ownership issue. License holder, however, is civilly and criminally responsible for licensed activities.
+- The regulator needs to be the owners best friend
+- note: 1970s perspectives tend to come up and be present still today in some instances and locations; pressure to adopt current views
+- slide 8: operators made decisions based on what they believed their management's expectations were. Things that were really emphasized colored their decisions that ended up leading to accidents or near accidents. 
+- Keep management aware about the consequences in terms of the technology of compromises that need to be made for schedule and cost 
+
+- real barriers to advanced technologies: economics. Historically, momentum. Today, looking at big companies, mpower, couldn't get equity; NuScale will need equity soon; TerraPower, same deal. To take these to success, it will take a very strong signal from future owners otherwise these companies will never be able to get the equity. Clear signals to wall street, the developer, and the regulator. Can get to technical agreements, but need to translate those agreements into policy issues that were created in the 60s. Those discussions are conducted in public and all anti-nukes get input into that process. You have to undo the policy choices in the public arena. This is why you really need a strong hand (also, a shift in the public). DOE pounding on the table is irrelevant - they won't buy or license any of this. They are a false stakeholder. 
+- What's the government role in this? Gov needs to be highly involved, and the current investment is not nearly enough. 
+
+
+Nuclear Plant Accidents; Roger Mattson
+* Three Mile Island Unit 2
+  - they weren't sure if rcs pumps would start b/c there was a capacitor that was sensitive to radiation, they therefore couldn't turn the one running off
+  - H explosion: localized near dump tank, so pressure of explosion wouldn't have been uniform on containment; rated to 60 psi (is the design pressure, not the pressure at which it will fail), chart recorded 28, likely higher.
+  - leaking radioactivity expected to get worse, NRC recommended to evacuate, there was hesitation, leak stopped so that was fine (I lost track of who was whom here, but that all looked bad).
+  - There were several precursor items: culture - warnings about Davis Besse was let slide, someone had thought through issues with the candycane steam generators and said no it will be fine. Lots of missed chances. [complacency and mindsets]
+  - Phil: perspectives: [1] regulator who should be regulating is helping to solve the problem instead so no one is verifying that work; industry was not well-prepared; the NRC was in the midst of this accident, which was totally inappropriate. [2] Davis Besse: PORV thing that was the same as at TMI. B&W understood that incident well, they messed up by not telling anyone else what happened at 1977. [3] philosophy that regulator is responsible for safety rather than the owner, which is who is really responsible. 
+
+* Chernobyl: this was really and truly a tragedy on many levels. 
+  - book: A Blaze
+
+* Fukushima Dai-ichi units 1-4
+  - root cause: lack of questioning of authority and orders is a very deep part of the culture. This percolates through entire system. 
+
+- Note: FLEX is not the solution, it is the belt+suspenders backfit plan. 
+
+
+Cybersecurity lunch talk
+
+
+Safety Case; Bob Brodsky, Bob Youngblood, Phil Hildebrandt, Greg Gibbs
+* Bob B: introduction
+
+* Bob Y: evolution of safety basis - basically the history of PRA
+
+* Phil: defense-in-depth
+
+* Phil: shortfalls in regulatory requirements
+
+* Phil and Greg: operating experience
+
+Design; Henry Stone, Robert Brodsky, Phil Hildebrandt, Herb Estrada
  
 [Index](#top)
 
 
 
 #### <a name="day3"> Day 3
+
+
+Fukushima Daiichi Accident Video part 2
 
  
 [Index](#top)
