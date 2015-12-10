@@ -1,6 +1,7 @@
 ## Nuclear Engineering Department Colloquia
 
 ### Meeting list
+* [Wenlong Zhan, CAS: 2015/12/10](#talk-20151210)
 * [Joseph Lassiter, III: 2015/10/12](#talk-20151012)
 * [Chris Clement: 2015/05/04](#talk-20150504)
 * [Omar Hurricane: 2014/04/28](#talk-20140428)
@@ -8,6 +9,28 @@
 * [Cameron Geddes: 2014/03/10](#talk-20140310)
 
 ***
+
+### <a name="talk-20151210"> Wenlong Zhang, Introduction of ADANES (Accelerator Driven Advanced Nuclear Energy System): 2015/12/10
+
+- plot of relative resource utilization and radiotoxicity reduction compared to other strategies (MOX in LWR, MOX in FR, FR, B&B or C&B); ADANES better or as good as all
+- high resource utilization -> breeding; high radiotoxicity reduction -> transmutation
+- ADS: transmutation and breeding with high-power proton source, fuel recycle strategy required (remove FPs with high temp dry method (e.g. AIROX), remove Lns by RE extract. End up with pretty significant waste reduction
+- The main motivation is extending the length of viability of NE (10,000 y they say)
+- map of closed fuel cycle path; burnup fuel to 33 GWd/T
+- Operation mode: use two high power linacs to produce external neutrons...I do not understand the picture. I have no idea what the R#s are
+- subcritical time driven by lots of items. I wish I knew anything about how these systems work...
+- There is a map of accelerator characteristics by time phase
+- stuff about the accelerator
+- fluidized, dense, granular target design, 
+- accelerator relies on quite a bit of development -> order of magnitude larger than today.
+- using gas cooled, low pressure. They started talking about reactors and I wasn't paying attention.
+- triso fuel plan, though looks like also investigating rod design
+- I'd be curious to learn more about these designs and what the options are...
+- SIMP material is new, seems to have good properties (it is martensitic steel); corrosion testing in supercritical water
+- supercomputing slide; using GPU monte carlo. need to learn about this. ask at lunch. They went very quickly through that slide.
+- 
+
+
 
 ### <a name="talk-20151012">Joseph Lassiter, III, Rethinking Nuclear, Can We Change the World's Cumulative Energy Emissions Soon Enough?: 2015/10/12
 
