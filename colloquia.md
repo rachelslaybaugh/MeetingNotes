@@ -28,7 +28,6 @@
 - I'd be curious to learn more about these designs and what the options are...
 - SIMP material is new, seems to have good properties (it is martensitic steel); corrosion testing in supercritical water
 - supercomputing slide; using GPU monte carlo. need to learn about this. ask at lunch. They went very quickly through that slide.
-- 
 
 
 
