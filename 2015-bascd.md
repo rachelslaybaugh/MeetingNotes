@@ -119,10 +119,19 @@ Kathy's opening remarks touched on computing things happening at the lab: nation
 
 
 
-#### <a name="azad"> Parallel sparse matrix-matrix multiplication and its use in triangle counting and enuermation, Ariful Azad
+#### <a name="azad"> Parallel sparse matrix-matrix multiplication and its use in triangle counting and enumeration, Ariful Azad
 
-
-
+- SpGEMM, objective is massively parallel (> 20,000 cores) and large matrices (> billions of nonzeros)
+- sparse matrix rep: sensible layout, good slide explanation
+- best organization choice is column by column
+- heap-based column-by-column algo
+- they have shared memory SpGEMM that is better than MKL
+- variations in how to do the memory distribution
+- also interested in sparsity-independent algos (previous state of the art was 2D Sparse SUMMA)
+- 3D algorithms, relationship between layers and threads; increasing threads reduces runtime
+- I think I would need to read the paper to understand what is really going on here; looks like it performs pretty well
+- application to AMG
+- Specialized Masked SpGEMM: triangle counting in graphs
 
 [Speaker List](#top)
 
@@ -130,8 +139,7 @@ Kathy's opening remarks touched on computing things happening at the lab: nation
 
 #### <a name="wei"> Guarantees of Riemannian Optimization for Low Rank Matrix Recovery, Ke Wei
 
-
-
+- skipped talk
 
 [Speaker List](#top)
 
@@ -139,8 +147,7 @@ Kathy's opening remarks touched on computing things happening at the lab: nation
 
 #### <a name="kahlil"> Probabilistic Interference of Model Parameters and Missing High-Dimensional Data Based on Summary Statistics
 
-
-
+- skipped talk
 
 [Speaker List](#top)
 
@@ -148,8 +155,9 @@ Kathy's opening remarks touched on computing things happening at the lab: nation
 
 #### <a name="minden"> Fast Spatial Gaussian Process Maximum Likelihood Estimation via Skeletonization Factorizations, Victor Minden 
 
-
-
+- came in part way through the talk
+- actually pretty interesting, also good speaker
+- use radial basis functions when data is spaced out in a non-uniform way
 
 [Speaker List](#top)
 
@@ -157,8 +165,31 @@ Kathy's opening remarks touched on computing things happening at the lab: nation
 
 #### <a name="dotti"> Modernizing large scale software for parallel hardware: the experience with GEANT 4, Andrea Dotti 
 
-
-
+- experimental particle physics
+- Geant4 has a toolkit approach; geometry, physics, visualization, analysis - all highly configurable
+- CERN, medical, industrial applications, among others
+- moving to more and more cores, memory/core decreasing
+- goals: maintain/improve physics, limit user code changes, developers are not computer scientists
+- MC, so at least it is easy to parallelize; MPI integration in 2015? 
+- UI is application -> node interface with MPI -> pthread/TBB on socket -> thread
+- found all non-thread safe variables and transform them to be thread-local (done automatically with a gcc plugin)
+- found most memory intensive objects and share among threads (geometry, physics tables); split-class
+- issues with split-class mechanism: figuring out invariant vs. variant parts by adding thread safety while using an index that is thread-private to avoid parallelism locking, but keep the interface the same (really need to look at the slides and probably the paper to get the details)
+- why thread local storage? Lower penalty with respect to mutex/lock; increased memory usage (thought small), only simple data types are drawbacks
+- big need was memory reduction
+- they managed to keep memory small enough for XeonPhi, it was not super clear; references on each slide about these things
+- they currently are I/O bound bc of handling MPI comm at certain code points, detracts from scaling, they're addressing that
+- interested in MICs for medical community since they don't really have access to supercomputers
+- most + 2 XeonPhi cards gave 3x speedup, which is much cheaper than buying 3 machines
+- no single function uses more than a few % CPU, so it is hard to find where to optimize, however, the idea is to look for groups of algorithms that can be optimized as a whole - think of your code differently
+- e.g. hadronic xsecs are small functions that together are 10-20% of CPU time, looking for an intelligent "cache" to intercept all the calls and provide shortcut
+- e.g. many small files contain data and are accessed lazily, reorganizing the structure can improve I/O
+- doing VR, reverse MC (I don't know what that is), "frozen showers" (I don't know what that is either) to speed things up
+- (note: seminar speaker this week on muons couldn't use Geant4 b/c it was memory bound)
+- talk about e-gamma radiotherapy as a good simulation candidate b/c there are only 3 kinds of particles, low energy em physics, 1 material, uniformly discretized geometry
+- GPUs for the application, sounds like that is going well
+- description of results, not really what they changed to make this work (comparison was with a specialized code; they said couldn't port to GPUs would have to totally rewrite code)
+- It sounds like it just has MPI and multithreading and it works on MICs pretty well
 
 [Speaker List](#top)
 
