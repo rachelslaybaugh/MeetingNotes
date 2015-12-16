@@ -1,6 +1,7 @@
 ## Nuclear Engineering Department Colloquia
 
-### Meeting list
+### <a name="top">Meeting list
+* [Man-Sung Yim, KAIST: 2015.12.16](#talk-20151216)
 * [Wenlong Zhan, CAS: 2015/12/10](#talk-20151210)
 * [Joseph Lassiter, III: 2015/10/12](#talk-20151012)
 * [Chris Clement: 2015/05/04](#talk-20150504)
@@ -9,6 +10,28 @@
 * [Cameron Geddes: 2014/03/10](#talk-20140310)
 
 ***
+
+### <a name="talk-20151216"> Man-Sung Yim, Nuclear Safety: A Thought for the Future: 2015/12/16
+
+- 18 full time faculty, 306 students, more than 50% of PhDs in South Korea
+- 15 NE departments and growing
+- NEREC: Nonproliferation Education and Research Center
+- international fellows summer program, the schedule looks pretty great
+- public outreach initiative at different universities to talk about whether SK needs own nuclear arsenal (in context of NK issues); take poll before and after
+- annual conference to foster dialogue about nuclear nonproliferation
+- collaborative research initiative with Abu Dhabi, also Saudi Arabia is new
+- interesting map of gov't owned and operating capacity; no one has large private owned + large capacity, but US broken into utilities rather than combined...seems unfair?
+- interesting history of nuclear safety
+- SK has something to learn from US about nuclear power acceptance; they're currently experiencing something like post-TMI
+- some major things to pay attention to with insider issues, newcomer states, multi-cultural workforces...
+- prevention of insider thereat: screening, two-person rule, whistleblowing, monitoring (lots of interesting ideas that he is studying)
+- interesting study of impact of multi-cultural issues
+- Nuclear Art that actively expresses safety level at a nuclear facility?
+- Can we either help people understand or make them so protected that it just does not matter?
+- Integrative accident consequence mitigation approach (using drones?), spray systems, vortex air curtains - lots of different ideas
+
+[Index](#top)
+
 
 ### <a name="talk-20151210"> Wenlong Zhang, Introduction of ADANES (Accelerator Driven Advanced Nuclear Energy System): 2015/12/10
 
@@ -29,6 +52,7 @@
 - SIMP material is new, seems to have good properties (it is martensitic steel); corrosion testing in supercritical water
 - supercomputing slide; using GPU monte carlo. need to learn about this. ask at lunch. They went very quickly through that slide.
 
+[Index](#top)
 
 
 ### <a name="talk-20151012">Joseph Lassiter, III, Rethinking Nuclear, Can We Change the World's Cumulative Energy Emissions Soon Enough?: 2015/10/12
@@ -58,6 +82,7 @@ Serious call to action.
 - Seems to underestimate difficulty of regulatory hurdles for the experiment building and the technology transfer
 - Some of the regulatory stuff is Secretary-level decision as opposed to law
 
+[Index](#top)
 
 
 ### <a name="talk-20150504">Chris Clement, ICRP: 2015/05/04
@@ -88,6 +113,7 @@ Program of Work
 - Ethics: had been focused on traditional western ethical schools, shifting to common ideals that cut across cultures. Working towards a set of common and relevant values. 
 - Idea is to explain the ethics that are behind the rp standards.
 
+[Index](#top)
 
 -----------------
 
@@ -128,6 +154,7 @@ They realized ablator material from the outside was getting too mixed in, causin
 Low foot was 4-shock to get high velocity, low adiabat.
 Making the foot higher uses up adiabat faster, meaning you need shorter time - only 3-shock implosion.
 
+[Index](#top)
 
 -----------------
 
@@ -164,6 +191,7 @@ Thought exercise: go through with people: what are your goals? How do we get the
 
 Artist: William Verstraeten
 
+[Index](#top)
 
 -----------------
 
@@ -192,3 +220,4 @@ Can control by changing initial particle velocity or by modulating wake velocity
 
 Big issues with power limitations.
 
+[Index](#top)
