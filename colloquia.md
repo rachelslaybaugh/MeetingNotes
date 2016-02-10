@@ -1,7 +1,8 @@
 ## Nuclear Engineering Department Colloquia
 
 ### <a name="top">Meeting list
-* [Man-Sung Yim, KAIST: 2015.12.16](#talk-20151216)
+* [Bethany Goldblum, UCB: 2016/02/09](#talk-20160209)
+* [Man-Sung Yim, KAIST: 2015/12/16](#talk-20151216)
 * [Wenlong Zhan, CAS: 2015/12/10](#talk-20151210)
 * [Joseph Lassiter, III: 2015/10/12](#talk-20151012)
 * [Chris Clement: 2015/05/04](#talk-20150504)
@@ -10,6 +11,32 @@
 * [Cameron Geddes: 2014/03/10](#talk-20140310)
 
 ***
+
+### <a name="talk-20160209"> Bethany Goldblum: 2015/12/16
+- Scintillators for fast neutron detection: described intro physics
+- very teaching-esque in approach--really going into base physics
+- thinking about what we want out of scintillators and how to characterize them
+- very slowly walking thru measurements from papers, showing measurement of
+ a particular scintillator is not matching well. Sounds like there are issues
+ with ability to do these measurements. This is the motivation.
+- D into Tl, 88" cyclotron experiment, Cave 0 is where they make measurements.
+- It's a flexible neutron source; they've taken some measurements to
+  characterize it
+- Some work with applications at NIF
+- Model they use for characterizing light emission: coupled, nonlinear
+  differential equations. Good explanation of terms in the equations.
+- cyclotron turns make figuring out the timing information somewhat complicated
+- combine prediction with measurement to get a spectrum that makes some sense. 
+- A big contribution is that they can take measurements in a much shorter time;
+  they also can measure lower energies
+- Also working with Sandia on this.
+- Pulse shape discriminating plastics with Livermore.
+- a few other things happening at cyclotron, including damage studies. 
+
+[Index](#top)
+
+
+
 
 ### <a name="talk-20151216"> Man-Sung Yim, Nuclear Safety: A Thought for the Future: 2015/12/16
 
