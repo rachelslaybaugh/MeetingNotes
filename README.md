@@ -2,6 +2,8 @@
 Collections of markdown files with meeting notes:
 
 Recurring meetings
+* [Cloud
+* Computing](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/cloud-computing.md)
 * [Departmental Colloquia](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/colloquia.md)
 * [BeBOP](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/BeBOP.md)
 
