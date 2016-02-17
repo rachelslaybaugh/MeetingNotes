@@ -1,0 +1,63 @@
+Outline
+
+- Introduction
+  - We need nuclear innovation to address 
+    - global climate and environmental goals
+    - global and domestic security goals
+    - to ensure economic competitiveness
+  - we need it for advanced reactor design, understanding detector materials  
+    and behaviors, potential material diversion, and false positives or 
+    negatives in monitoring
+  - I build tools that people want to use to predictively design these systems
+  - with a focus on tools that work on very large machines
+  - outline talk: bg, 3 prongs
+ 
+- background
+  - the transport equation (here's what it is)
+  - the problems we want to solve are really big: 6D, complex data, physically
+    challenging problems. We also might want coupled multiphysics. We can do
+    this deterministically or with Monte Carlo; each present pretty big
+    challenges
+  - Context of existing tools are tuned to predict what we already know. We're
+    not in a place where we really can predict new things yet. We really need
+    to be able to be, though, so that we can shorten development time and
+    really bring change. 
+
+- Algorithms for advanced architectures
+  - To do predictive simulation we need a lot of computing power. 
+     - Cutting edge hardware; describe the kinds of machines; discuss some
+       challenges about using these machines.
+     - We've got a lot of old codes that can't use new machines effectively, and
+       as the machines become larger and more complex this becomes increasingly true.
+  - Work I've done to capitalize on new machines across solution strategies.
+    - traditional CPUs: Block Krylov + RQI + MGE
+    - heterogeneous architectures: WARP
+    - hybrid methods: now possible because of larger memory
+
+- Data
+  - issues that we're seeing 
+    - can't make good cross sections; 
+    - can't get the answer right
+  - both data processing and underlying data
+  - project to directly measure data and identify where processing isn't working (NIF)
+
+- Data processing
+  - challenge: things take too long to transfer, render, and process
+  - I've just started thinking about this, but as we've gotten bigger machines
+    we've just asked them to dump more stuff.  
+    - It takes longer to go through output, render things, etc.
+    - What if we worked smarter? Lower volume?
+  - can we develop algorithms to interleave calculations and analysis? 
+    - smarter management of data. 
+    - extra calculations inside of the calculations
+    - parts of the calculation might take longer, but you may have less data to
+      deal with at the end so it might be more time efficient overall...
+
+- Wrap up: the ideas I've talked about aren't unique to nuclear engineering;
+  it's likely you're all facing challenges that are like at least some of
+  these. I've talked about what I'm doing to face some of them, hopefully we can 
+  build new ideas together...
+
+
+
+
