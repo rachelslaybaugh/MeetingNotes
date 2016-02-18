@@ -1,6 +1,7 @@
 ## Nuclear Engineering Department Colloquia
 
 ### <a name="top">Meeting list
+* [Fabrice Retiere, EXO: 2016/02/17](#talk-20160217)
 * [Bethany Goldblum, UCB: 2016/02/09](#talk-20160209)
 * [Man-Sung Yim, KAIST: 2015/12/16](#talk-20151216)
 * [Wenlong Zhan, CAS: 2015/12/10](#talk-20151210)
@@ -12,7 +13,31 @@
 
 ***
 
-### <a name="talk-20160209"> Bethany Goldblum: 2015/12/16
+### <a name="talk-20160217"> Fabrice Retiere: 2016/02/17
+- neutrino oscillations: short baseline, long baseline, solar, double beta
+decay
+- reasons that it is good to use xenon to detect lots of things of interest to
+  a few communities
+- current experiment went through upgrades, will be back online soon, think
+  they'll get to 1% resolution
+- nEXO is a larger collaboration. (will move from WIPP to SNOLAB)
+- mew experiment is supposed to improve lots of stuff (background,
+  self-shielding, rejection, energy resolution, etc.)
+- Some of the improvements come from using so much more xenon, which is very
+  expensive
+- He focuses on improving the light detection; other open questions about
+  improving charge collection
+- Talked about what is next (after nEXO), materials, pros and cons
+- Focus on his role, which is the light detection and how to improve that...
+- Large market for the research beyond this specific experiment, esp in bay
+  area
+- Also talking about what you can do with this besides really basic research
+- Great job explaining where I am, where I'm going, and where I will go after
+  that. Also, here is how all of this is applicable more broadly. Solid talk. 
+[Index](#top)
+
+
+### <a name="talk-20160209"> Bethany Goldblum: 2016/02/09
 - Scintillators for fast neutron detection: described intro physics
 - very teaching-esque in approach--really going into base physics
 - thinking about what we want out of scintillators and how to characterize them
@@ -34,8 +59,6 @@
 - a few other things happening at cyclotron, including damage studies. 
 
 [Index](#top)
-
-
 
 
 ### <a name="talk-20151216"> Man-Sung Yim, Nuclear Safety: A Thought for the Future: 2015/12/16
