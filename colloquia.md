@@ -1,6 +1,7 @@
 ## Nuclear Engineering Department Colloquia
 
 ### <a name="top">Meeting list
+* [Thomas Langford, 2016/02/19](#talk-20160219)
 * [Fabrice Retiere, EXO: 2016/02/17](#talk-20160217)
 * [Bethany Goldblum, UCB: 2016/02/09](#talk-20160209)
 * [Man-Sung Yim, KAIST: 2015/12/16](#talk-20151216)
@@ -13,7 +14,40 @@
 
 ***
 
-### <a name="talk-20160217"> Fabrice Retiere: 2016/02/17
+### <a name="talk-20160219">Thomas Langford: 2016/02/19
+- capture tagged detectors for inverse bega decay and fast neutron
+  interactions, use coincidence to reject background
+- FaNS: high-sensitivity neutron spectrometers
+- good job of setting scope and background
+- cosmogenic neutrons historically detected with bonner sphere arrays -> put
+  through complex unfolding to get an expected spectrum; large uncertainties
+- significant backgrounds for surface-based neutrino detectors and activation
+  of long-lived isotopes
+- FaNS: take bonner sphere and replace passive moderator with active moderator
+- also get directional detection; has good background discrimination
+- slides have a very antiquated feel, which works since he opened talking about
+  the origin of the neutrino
+- Switch to reactor neutrinos
+- Two main approaches for predicting neutrino flux: ab-initio, which appears to
+  be the brute force method that include assumptions (I missed the second one)
+- neutrino bias: where is it coming from? new type of physics (sterile
+  neutrino)?
+- (note: this is the neutrino bump/shoulder)
+- hypotheses about whether there's real disagreement and what the cause might
+  be
+- good speaking style and scientific openness
+- PROSPECT: acronym of a thing designed to investigate this anomaly
+- Using HFIR, 7m from the core
+- Measuring between 10 and 100 MeV; having a hard time screening out background
+- new detector design, new liquid scintillator, new shielding
+- new scintillator had a lot of constraints to allow it to be next to a reactor
+- Shield optimization to get radiation + weight constraints (ask about methods)
+
+[Index](#top)
+
+-----------------
+
+### <a name="talk-20160217">Fabrice Retiere: 2016/02/17
 - neutrino oscillations: short baseline, long baseline, solar, double beta
 decay
 - reasons that it is good to use xenon to detect lots of things of interest to
@@ -34,10 +68,12 @@ decay
 - Also talking about what you can do with this besides really basic research
 - Great job explaining where I am, where I'm going, and where I will go after
   that. Also, here is how all of this is applicable more broadly. Solid talk. 
+
 [Index](#top)
 
+-----------------
 
-### <a name="talk-20160209"> Bethany Goldblum: 2016/02/09
+### <a name="talk-20160209">Bethany Goldblum: 2016/02/09
 - Scintillators for fast neutron detection: described intro physics
 - very teaching-esque in approach--really going into base physics
 - thinking about what we want out of scintillators and how to characterize them
@@ -60,8 +96,9 @@ decay
 
 [Index](#top)
 
+-----------------
 
-### <a name="talk-20151216"> Man-Sung Yim, Nuclear Safety: A Thought for the Future: 2015/12/16
+### <a name="talk-20151216">Man-Sung Yim, Nuclear Safety: A Thought for the Future: 2015/12/16
 
 - 18 full time faculty, 306 students, more than 50% of PhDs in South Korea
 - 15 NE departments and growing
@@ -82,8 +119,9 @@ decay
 
 [Index](#top)
 
+-----------------
 
-### <a name="talk-20151210"> Wenlong Zhang, Introduction of ADANES (Accelerator Driven Advanced Nuclear Energy System): 2015/12/10
+### <a name="talk-20151210">Wenlong Zhang, Introduction of ADANES (Accelerator Driven Advanced Nuclear Energy System): 2015/12/10
 
 - plot of relative resource utilization and radiotoxicity reduction compared to other strategies (MOX in LWR, MOX in FR, FR, B&B or C&B); ADANES better or as good as all
 - high resource utilization -> breeding; high radiotoxicity reduction -> transmutation
@@ -104,6 +142,7 @@ decay
 
 [Index](#top)
 
+-----------------
 
 ### <a name="talk-20151012">Joseph Lassiter, III, Rethinking Nuclear, Can We Change the World's Cumulative Energy Emissions Soon Enough?: 2015/10/12
 
@@ -134,6 +173,7 @@ Serious call to action.
 
 [Index](#top)
 
+-----------------
 
 ### <a name="talk-20150504">Chris Clement, ICRP: 2015/05/04
 
