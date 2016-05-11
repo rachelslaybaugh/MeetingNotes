@@ -14,11 +14,14 @@ General notes
 
 
 Conferences / meetings
+* [2016 Dept Strategic Planning](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-dept-strategic.md)
+* [Shifter](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-04-shifter.md)
 * [2015 Bay Area Scientific Computing Day](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-bascd.md)
 * [2015 INL Knowledge Transfer](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-11-knowledge-transfer.md)
 * [2015 ANS Winter](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-11-ANS.md)
 * [2015 DMML](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-dmml.md)
 * [2015 dept retreat](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-dept.retreat.md)
+* [Savio](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-06-savio.md)
 * [MC on GPU Workshop](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-mc-gpu.md)
 * [Nuclear Data (NDNCA) 2015](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-ndnca.md)
 * [UITI 2015](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-uiti.md)

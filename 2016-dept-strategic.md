@@ -30,31 +30,28 @@ thinking about?
 
 #### <a name="personnel">Academic Personnel
 * Jasmina read us Costes report. 
+* Create one page writeup for each case to be used internally before going through
+  the large process that lays out how each proposed person fits into our
+  strategic plan. Writeup should include the vision of the department as a whole,
+  teaching, research, service, and financial plan. This can be short.
 
 [Agenda Items](#top)
 
 
 #### <a name="board">Advisory Board
+* Our students are happy.
+* Align more professional focus to benefit undergraduates in a way that sets us
+  up for a more appleaing MEng program. That makes MEng appealing and really
+  valuable.
+* The buget is our main problem.
 
 [Agenda Items](#top)
 
 
 #### <a name="curric">Curriculum
+* Need details for how to do medical physics certificate
+* Need a plan for EE117
 
 [Agenda Items](#top)
 
-
-#### <a name="teaching">Teaching
-
-[Agenda Items](#top)
-
-
-#### <a name="research">Research
-
-[Agenda Items](#top)
-
-
-#### <a name="procedures">Procedures
-
-[Agenda Items](#top)
 
