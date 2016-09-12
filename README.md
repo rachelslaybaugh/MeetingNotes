@@ -14,6 +14,7 @@ General notes
 
 
 Conferences / meetings
+* [NSSC 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-09-nssc.md)
 * [UITI 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-uiti.md)
 * [2016 Dept Strategic Planning](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-dept-strategic.md)
 * [Shifter](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-04-shifter.md)
