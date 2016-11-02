@@ -14,10 +14,14 @@ General notes
 
 
 Conferences / meetings
+* [CANES 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-11-canes.md)
+* [MSR 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-10-msr.md)
 * [NSSC 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-09-nssc.md)
 * [UITI 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-uiti.md)
 * [2016 Dept Strategic Planning](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-dept-strategic.md)
 * [Shifter](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-04-shifter.md)
+* [April and Katy
+* planning](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-02-april-katy.md)
 * [2015 Bay Area Scientific Computing Day](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-bascd.md)
 * [2015 INL Knowledge Transfer](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-11-knowledge-transfer.md)
 * [2015 ANS Winter](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2015-11-ANS.md)
