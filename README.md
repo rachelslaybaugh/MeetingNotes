@@ -14,6 +14,8 @@ General notes
 
 
 Conferences / meetings
+* [NEAC Dec 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-12-neac.md)
+* [NASA Space Portal 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-11-nasa.md)
 * [CANES 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-11-canes.md)
 * [MSR 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-10-msr.md)
 * [NSSC 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-09-nssc.md)
