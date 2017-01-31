@@ -29,14 +29,39 @@ relevant to a future environmental knowledgebase.
     interact with one another. "genome up" and "planet down"
   - roadmap
 
-* Susan Hubbard –Watershed Science
-
+* Susan Hubbard – Watershed Science (looks like a person I should talk to)
+  - how do watersheds respond to perturbations in rainfall, etc.? How do we
+    predict that?
+  - how do you figure out the resolution needed? 
+  - looking to predict aggregate behavior--using AMR and scale-adaptive
+    strategy
+  - data heterogeneity: multi-scale, multi-resolution
+  - very hierarchically-nested measurements
+  - wish list: anomaly detection and notification; image analysis
+    assimilation; automatic synthesis. This is a good slide...
+  - How do we really figure out what data we need to use out of the data we
+    collect? How do we do that formally? Perturbation studies? Machine
+    learning?
+  - This project uses Broker Approach, which sorts through data and pulls out
+    what it thinks are important
 
 * Maggi Kelly – Drones & Historical Data
+  - 21st century mapping toolkits for large humanitarian questions
+  - *This* digitizing historical data, used holos eco engine (open API) to do this
+  - *This* also taking old reports, scanning, using Watson Alchemy API, and bringing
+    out the main components of those research items
+  - they're taking new images and there is still this global / local challenge
+  - big challenge in linguistics and text processing for getting out this old
+    data
+  - Raster Foundry
 
-
-* Kjiersten Fagnan – JGI, multi-omics data and modeling
-
+* Chris Mungall - Ontology Learning for Biosciences, Energy, and the Environment
+  - fuse data and knoweldge to enable decision support for env and energy
+  - different ontologies for classifying different types of data
+    ([geneonotology.org](geneonotology.org), [environmentontology.org](environmentontology.org))
+  - looking at automatically classifying data as it's being generated: combine
+    data, databases, and literature information; combined knowledge systems
+  - use the question you're asking to guide how much of which inputs you want
 
 [Index](#top)
 
