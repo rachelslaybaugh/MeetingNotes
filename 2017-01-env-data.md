@@ -58,7 +58,8 @@ relevant to a future environmental knowledgebase.
 * Chris Mungall - Ontology Learning for Biosciences, Energy, and the Environment
   - fuse data and knoweldge to enable decision support for env and energy
   - different ontologies for classifying different types of data
-    ([geneonotology.org](geneonotology.org), [environmentontology.org](environmentontology.org))
+    ([geneonotology.org](http://www.geneonotology.org),
+     [environmentontology.org](http://www.environmentontology.org))
   - looking at automatically classifying data as it's being generated: combine
     data, databases, and literature information; combined knowledge systems
   - use the question you're asking to guide how much of which inputs you want
