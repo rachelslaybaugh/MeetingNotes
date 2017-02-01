@@ -145,11 +145,14 @@ artificial intelligence. I don't really know what these things mean.
 
 * Principled assimilation/integration of mechanistic and data driven/statistical
 models: George Pau
+  - challenges with having enough data and overfitting the data that you have
 
 [Index](#top)
 
 
 ### <a name="breakout">Breakout
+
+Fernando and Susan made some good overview sketches
 
 [Index](#top)
 
