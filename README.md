@@ -12,9 +12,10 @@ General notes
 * [UCOP Catalyst 2015 Proposal](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/ucop-catalyst-2015.md)
 * [Website ideas](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/website-ideas.md)
 
+[ARPA-E](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/ARPA-E/README.md)
+notes
 
 Conferences / meetings
-* [ARPAE Summit Feb 2017](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2017-02-arpa-e.md)
 * [BIDS Env. Knowledge Workshop, Jan 2017](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2017-01-env-data.md)
 * [NEAC Dec 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-12-neac.md)
 * [NASA Space Portal 2016](https://github.com/rachelslaybaugh/MeetingNotes/blob/master/2016-11-nasa.md)
